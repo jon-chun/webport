@@ -1,0 +1,3635 @@
+{
+  "gil-eyal": {
+    "slug": "gil-eyal",
+    "name": "Gil Eyal",
+    "professional_title": "Professor of Sociology, Columbia UniversityDirector of the Trust Collaboratory at INCITE",
+    "has_papers": true,
+    "papers_text": "Trans-science as a vocation (2019)Mistrust in Numbers: Regulatory Science, Trans-science and the Crisis of Expertise (2022)"
+  },
+  "jennifer-ratner-rosenhagen": {
+    "slug": "jennifer-ratner-rosenhagen",
+    "name": "Jennifer Ratner-Rosenhagen",
+    "professional_title": "Merle Curti and Vilas Borghesi Distinguished Achievement Professor of History, University of Wisconsin-Madison",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "brigid-doherty": {
+    "slug": "brigid-doherty",
+    "name": "Brigid Doherty",
+    "professional_title": "Associate Professor of German and Art and Archaeology, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "deborah-coen": {
+    "slug": "deborah-coen",
+    "name": "Deborah Coen",
+    "professional_title": "Professor of History, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "eric-lindstrom": {
+    "slug": "eric-lindstrom",
+    "name": "Eric Lindstrom",
+    "professional_title": "Professor of English, University of Vermont",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elizabeth-birkelund": {
+    "slug": "elizabeth-birkelund",
+    "name": "Elizabeth Birkelund",
+    "professional_title": "Author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "honor-moore": {
+    "slug": "honor-moore",
+    "name": "Honor Moore",
+    "professional_title": "Poet & Memorist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-frank": {
+    "slug": "michael-frank",
+    "name": "Michael Frank",
+    "professional_title": "Author, writer, & critic",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "christopher-lyon": {
+    "slug": "christopher-lyon",
+    "name": "Christopher Lyon",
+    "professional_title": "Scholar & publisher",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-coffey": {
+    "slug": "michael-coffey",
+    "name": "Michael Coffey",
+    "professional_title": "Writer & Editor",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "cheryl-dolinger-brown": {
+    "slug": "cheryl-dolinger-brown",
+    "name": "Cheryl Dolinger Brown",
+    "professional_title": "Psychotherapist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "william-c-tomlinson": {
+    "slug": "william-c-tomlinson",
+    "name": "W. Craig Tomlinson",
+    "professional_title": "Assistant Clinical Professor of Psychiatry, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "maura-siegal": {
+    "slug": "maura-siegal",
+    "name": "Maura Spiegal",
+    "professional_title": "Co-Director, Division of Narrative Medicine, Columbia University Irving Medical CenterSr. Lecturer, Department of English & Comparative Literature, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "stephen-dames": {
+    "slug": "stephen-dames",
+    "name": "Stephen Dames",
+    "professional_title": "Writer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "cassie-kaufmann": {
+    "slug": "cassie-kaufmann",
+    "name": "Cassie Kaufmann",
+    "professional_title": "Licensed Clinical Psychologist & PsychoanalystFounder & Director, Greene Clinic",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-russell": {
+    "slug": "david-russell",
+    "name": "David Russell",
+    "professional_title": "Associate Professor, English, UCLA",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ben-kafka": {
+    "slug": "ben-kafka",
+    "name": "Ben Kafka",
+    "professional_title": "Associate Professor of Clinical Psychoanalysis, Department of Psychiatry, Columbia",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "claudia-lugo-candelas": {
+    "slug": "claudia-lugo-candelas",
+    "name": "Claudia Lugo-Candelas",
+    "professional_title": "Florence Irving Associate Professor of Medical Psychology (in Psychiatry), Columbia University Medical Center/New York State Psychiatric Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "susan-sherkow": {
+    "slug": "susan-sherkow",
+    "name": "Susan Sherkow",
+    "professional_title": "Training and Supervising Analyst, NYPSIAdjunct Clinical Professor of Psychiatry at Mount Sinai College of MedicineClinical Assistant Professor, Albert Einstein College of MedicineFounder/Director, The Sherkow Center for Child Development and Autism Spectrum Disorder",
+    "has_papers": true,
+    "papers_text": "Sherkow, Susan P., and Alexandra M. Harrison. Autism Spectrum Disorder: Perspectives from Psychoanalysis and Neuroscience. With contributions by William M. Singletary, Jason Aronson, 2014."
+  },
+  "amy-lutz": {
+    "slug": "amy-lutz",
+    "name": "Amy Lutz",
+    "professional_title": "Historian of Medicine, University of PennsylvaniaVice-President, National Council on Severe Autism (NCSA)",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "catherine-wikholm": {
+    "slug": "catherine-wikholm",
+    "name": "Catherine Wikholm",
+    "professional_title": "Clinical Psychologist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-silbersweig": {
+    "slug": "david-silbersweig",
+    "name": "David Silbersweig",
+    "professional_title": "Chairman Emeritus, Department of Psychiatry, Brigham and Women\u2019s HospitalStanley Cobb Professor of Psychiatry, Harvard Medical School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "inge-marie-eigsti": {
+    "slug": "inge-marie-eigsti",
+    "name": "Inge-Marie Eigsti",
+    "professional_title": "Professor of Clinical Psychology, Department of Psychological Sciences, University of ConnecticutDirector of Research for the Institute for Brain and Cognitive Sciences",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joanne-loewy": {
+    "slug": "joanne-loewy",
+    "name": "Joanne Loewy",
+    "professional_title": "Director, Department of Music Therapy, Icahn School of Medicine at Mount SinaiProfessor, Icahn School of Medicine at Mount Sinai",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tim-mchenry": {
+    "slug": "tim-mchenry",
+    "name": "Tim McHenry",
+    "professional_title": "Author & Curator",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-forbes": {
+    "slug": "david-forbes",
+    "name": "David Forbes",
+    "professional_title": "Emeritus, Urban Education Doctoral Program, City University of New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrea-jain": {
+    "slug": "andrea-jain",
+    "name": "Andrea Jain",
+    "professional_title": "Professor of Religious Studies, Indiana UniversityEditor, Journal of the American Academy of Religion",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-epstein": {
+    "slug": "mark-epstein",
+    "name": "Mark Epstein",
+    "professional_title": "Psychiatrist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lydia-goehr": {
+    "slug": "lydia-goehr",
+    "name": "Lydia Goehr",
+    "professional_title": "Fred & Fannie Mack Professor of Humanities in the Department of Philosophy, Columbia UniversityAuthor",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jane-ira-bloom": {
+    "slug": "jane-ira-bloom",
+    "name": "Jane Ira Bloom",
+    "professional_title": "Saxophonist, Composer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rosanne-cash": {
+    "slug": "rosanne-cash",
+    "name": "Rosanne Cash",
+    "professional_title": "Singer-songwriter, Author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "marc-kissel": {
+    "slug": "marc-kissel",
+    "name": "Marc Kissel",
+    "professional_title": "Assistant Professor, Department of Anthropology, Appalachian State University in North Carolina",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dayu-lin": {
+    "slug": "dayu-lin",
+    "name": "Dayu Lin",
+    "professional_title": "Professor, Department of Psychiatry & Department of Neuroscience & Physiology, New York University Grossman School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joe-peyronnin": {
+    "slug": "joe-peyronnin",
+    "name": "Joe Peyronnin",
+    "professional_title": "Professor, Journalism, NYUAssociate Professor, Journalism, Hofstra University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "richard-betts": {
+    "slug": "richard-betts",
+    "name": "Richard Betts",
+    "professional_title": "Leo A.\u00a0Shifrin\u00a0Professor of War and Peace Studies\u00a0Emeritus, Columbia UniversityAdjunct Senior Fellow, Council on Foreign Relations",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jessica-benjamin": {
+    "slug": "jessica-benjamin",
+    "name": "Jessica Benjamin",
+    "professional_title": "New York University Postdoctoral Program in Psychotherapy and PsychoanalysisCo-founder, Stephen Mitchell Relational Studies CenterPsychoanalyst",
+    "has_papers": true,
+    "papers_text": "Jessica\u00a0Benjamin, Beyond Doer and Done To: Recognition Theory, Intersubjectivity and the Third. Routledge 2018."
+  },
+  "daniel-goldin": {
+    "slug": "daniel-goldin",
+    "name": "Daniel Goldin",
+    "professional_title": "Editor, Psychoanalytic InquiryTraining & Supervising Analyst, Institute of Contemporary Psychoanalysis",
+    "has_papers": true,
+    "papers_text": "The Origin of Shame in Early Life (June 2024)The Conversation \u2013 Otherness Part 1The Conversation \u2013 Otherness Part 2"
+  },
+  "wendy-sloan": {
+    "slug": "wendy-sloan",
+    "name": "Wendy Sloan",
+    "professional_title": "Poet, Translator, EssayistRetired Attorney",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniel-posner": {
+    "slug": "daniel-posner",
+    "name": "Daniel Posner",
+    "professional_title": "Assistant Clinical Professor, Psychiatry, Icahn School of Medicine at Mount SinaiAssociate Editor, Psychoanalytic Inquiry",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "janice-edwards": {
+    "slug": "janice-edwards",
+    "name": "Janice Edwards",
+    "professional_title": "Professor, School of Social Work, Howard University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "caitlin-snow": {
+    "slug": "caitlin-snow",
+    "name": "Caitlin Snow",
+    "professional_title": "Psychiatrist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-marcus": {
+    "slug": "james-marcus",
+    "name": "James Marcus",
+    "professional_title": "Editor, Translator, & Critic",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jasper-st-bernard": {
+    "slug": "jasper-st-bernard",
+    "name": "Jasper St. Bernard",
+    "professional_title": "Visiting Assistant Professor, History, Rhodes College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "eyal-rozmarin": {
+    "slug": "eyal-rozmarin",
+    "name": "Eyal Rozmarin",
+    "professional_title": "Psychoanalyst & writer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rachel-hadas": {
+    "slug": "rachel-hadas",
+    "name": "Rachel Hadas",
+    "professional_title": "Professor of English, Rutgers UniversityPoet, essayist, & translator",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "amy-cook": {
+    "slug": "amy-cook",
+    "name": "Amy Cook",
+    "professional_title": "Vice Provost of Academic Affairs, Stony Brook UniversityProfessor of English, Stony Brooky University",
+    "has_papers": true,
+    "papers_text": "\u201cShadow Play: Loss and Performativity,\u201d TDR 67:4 (T260), 2023.\u201c4E Cognition and the Humanities,\u201d The Oxford Handbook of 4E Cognition. A. Newen, L. de Bruin and S. Gallagher, eds. Oxford: Oxford University Press, 2018.\u201cKing of Shadows: Early Modern Characters and Actors,\u201d Shakespeare and Consciousness. Eds. Paul Budra and Clifford Werier. London: Palgrave Macmillan, 2016."
+  },
+  "owen-lewis": {
+    "slug": "owen-lewis",
+    "name": "Owen Lewis",
+    "professional_title": "Professor of Psychiatry, Department of Medical Humanities and Ethics, Vagelos\u00a0College of Physicians and Surgeons, Columbia UniversityPoet",
+    "has_papers": true,
+    "papers_text": "Personal Website"
+  },
+  "katalin-balog": {
+    "slug": "katalin-balog",
+    "name": "Katalin Balog",
+    "professional_title": "Professor of Philosophy, Rutgers University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-linton": {
+    "slug": "paul-linton",
+    "name": "Paul Linton",
+    "professional_title": "Presidential Scholar in Neuroscience and Society, Columbia UniversityFellow of the Italian Academy, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elissa-aminoff": {
+    "slug": "elissa-aminoff",
+    "name": "Elissa Aminoff",
+    "professional_title": "Assistant Professor of Psychology, Fordham University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-hunter": {
+    "slug": "john-hunter",
+    "name": "John Hunter",
+    "professional_title": "Professor, Comparative Humanities, Bucknell UniversityDirector of the Comparative & Digital Humanities Program, Bucknell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "kevin-chan": {
+    "slug": "kevin-chan",
+    "name": "Kevin Chan",
+    "professional_title": "Assistant Professor, Ophthalmology, Radiology, & Neuroscience, NYU Grossman School of MedicineAssistant Professor, Biomedical Engineering,\u00a0NYU\u00a0Tandon School of Engineering",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrew-shum": {
+    "slug": "andrew-shum",
+    "name": "Andrew Shum",
+    "professional_title": "Entrepeneur, Software Engineer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mahan-azadpour": {
+    "slug": "mahan-azadpour",
+    "name": "Mahan Azadpour",
+    "professional_title": "Research Associate Professor, NYU Grossman School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "christopher-cerrone": {
+    "slug": "christopher-cerrone",
+    "name": "Christopher Cerrone",
+    "professional_title": "Composer",
+    "has_papers": true,
+    "papers_text": "Personal Website"
+  },
+  "tristan-perich-2": {
+    "slug": "tristan-perich-2",
+    "name": "Tristan Perich",
+    "professional_title": "Composer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jill-gordon": {
+    "slug": "jill-gordon",
+    "name": "Jill Gordon",
+    "professional_title": "NEH/Class of 1940 Distinguished Professor of the Humanities Emerita & Professor\u00a0of Philosophy\u00a0Emerita, Colby CollegeFounding Member & former Director, Ancient Philosophy Society",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "clare-batty": {
+    "slug": "clare-batty",
+    "name": "Clare Batty",
+    "professional_title": "Associate Professor, Philosophy, University of KentuckyResearch Fellow, Centre for Olfactory Research & Applications at the Institute of Philosophy, University of London",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dmitry-rinberg": {
+    "slug": "dmitry-rinberg",
+    "name": "Dmitry Rinberg",
+    "professional_title": "Professor, Department of Neuroscience & Physiology, NYU Grossman School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-bower": {
+    "slug": "james-bower",
+    "name": "James Bower",
+    "professional_title": "CEO, Numedeon Inc.Computational Neuroscientist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-mcgann": {
+    "slug": "john-mcgann",
+    "name": "John McGann",
+    "professional_title": "Director, Center for Cognitive Science, Rutgers UniversityProfessor of Behavioral & Systems Neuroscience, Psychology Department, Rutgers University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-smith": {
+    "slug": "mark-smith",
+    "name": "Mark Smith",
+    "professional_title": "Carolina Distinguished Professor of History, University of South CarolinaClaude Henry Neuffer Chair of Southern Studies, University of South Carolina",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-breslin": {
+    "slug": "paul-breslin",
+    "name": "Paul Breslin",
+    "professional_title": "Professor of Nutritional Sciences, School of Environmental & Biological Sciences, Rutgers UniversityCo-Director, Monell Science Apprenticeship Program",
+    "has_papers": true,
+    "papers_text": "Chemical Senses in Feeding, Belonging, and Surviving (Cambridge University Press, 2019)An Evolutionary Perspective on Food and Human Taste (Current Biology, 2013)"
+  },
+  "andreas-keller": {
+    "slug": "andreas-keller",
+    "name": "Andreas Keller",
+    "professional_title": "Neuroscientist & Philosopher",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "danielle-reed": {
+    "slug": "danielle-reed",
+    "name": "Danielle Reed",
+    "professional_title": "Chief Science Officer, Monell Chemical Senses Center",
+    "has_papers": true,
+    "papers_text": "Sensory nutrition: The role of taste in the reviews of commercial food products (Physiology & Behavior, 2019)"
+  },
+  "nils-noren": {
+    "slug": "nils-noren",
+    "name": "Nils Noren",
+    "professional_title": "Professional ChefDirector of Hospitality & Development, Chapman VenturesCo-Found & Director of Trade & Union",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-mcquaid": {
+    "slug": "john-mcquaid",
+    "name": "John McQuaid",
+    "professional_title": "Journalist & Author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jerrold-levinson": {
+    "slug": "jerrold-levinson",
+    "name": "Jerrold Levinson",
+    "professional_title": "Distinguished University Professor of Philosophy Emeritus, University of Maryland",
+    "has_papers": true,
+    "papers_text": "Hume\u2019s Standard of Taste: The Real Problem (2006)Evaluating Music (2006)Intrinsic Value and the Notion of a Life (2004)"
+  },
+  "sushma-subramanian": {
+    "slug": "sushma-subramanian",
+    "name": "Sushma Subramanian",
+    "professional_title": "Science Writer & JournalistAssociate Professor of Journalism, University of Mary Washington",
+    "has_papers": true,
+    "papers_text": "How to Feel: The Science and Meaning of Touch (Columbia University Press, 2021)"
+  },
+  "tapomayukh-bhattacharjee": {
+    "slug": "tapomayukh-bhattacharjee",
+    "name": "Tapomayukh Bhattacharjee",
+    "professional_title": "Assistant Professor, Department of Computer Science, Cornell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "yalda-moayedi": {
+    "slug": "yalda-moayedi",
+    "name": "Yalda Moayedi",
+    "professional_title": "Assistant Professor, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "pascal-massie": {
+    "slug": "pascal-massie",
+    "name": "Pascal Massie",
+    "professional_title": "Associate Professor of Philosophy, Miami University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrea-gadberry": {
+    "slug": "andrea-gadberry",
+    "name": "Andrea Gadberry",
+    "professional_title": "Associate Professor, Comparative Literature, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daphne-merkin": {
+    "slug": "daphne-merkin",
+    "name": "Daphne Merkin",
+    "professional_title": "Novelist & Critic",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniel-czitrom": {
+    "slug": "daniel-czitrom",
+    "name": "Daniel Czitrom",
+    "professional_title": "Professor of History on the Ford Foundation, Mount Holyoke College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "erica-robles-anderson": {
+    "slug": "erica-robles-anderson",
+    "name": "Erica Robles-Anderson",
+    "professional_title": "Associate Professor of Media, Culture, & Communication, NYU",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "maria-pisano": {
+    "slug": "maria-pisano",
+    "name": "Maria G. Pisano",
+    "professional_title": "Book Artist, Printmaker, Curator & Educator",
+    "has_papers": true,
+    "papers_text": "Memory Press WebsiteFRACTURED: COVID 19 \u2013 Memento Mori vs. Memento Vivere, an artist book that takes one on the journey we, in our country, have being raked through in this epidemic, with references from Dante and Edgar Allan Poe\u2019s story of the Mask of the Red Death. This most recent work deals with the COVID-19 pandemic, created during this quarantine.This work compares the response from our government to the virus vs. first responders and essential workers, who are the real heroes in our lives: individuals who are selfless and reliable, performing their work with empathy and devotion and placing their lives on the line. The accompanying 70 pages journal also includes text from nurses. Additionally it covers the injurious neglect of responsibility for the people of the USA, the environment and voting rights, along with stoking prejudice, hate and discord in our nation.Caudex Foliumis on view to 2025 in the exhibit Towers Rising at the National September 11 Memorial and Museum in NYC. "
+  },
+  "anna-schechtman": {
+    "slug": "anna-schechtman",
+    "name": "Anna Shechtman",
+    "professional_title": "Klarman Fellow, Cornell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "richard-deming": {
+    "slug": "richard-deming",
+    "name": "Richard Deming",
+    "professional_title": "Poet & Critic",
+    "has_papers": true,
+    "papers_text": "This Exquisite LonelinessAt an unprecedented rate, loneliness is moving around the globe\u2014from self-isolating technology and political division to community decay and social fragmentation\u2014and yet it is not a feeling to which we readily admit. It is stigmatized, freighted with shame and fear, and easy to dismiss as mere emotional neediness. But what if instead of shying away from loneliness, we embraced it as something we can learn from and as something that will draw us closer to one another?In This Exquisite Loneliness, Richard Deming turns an eye toward that unwelcome feeling, both in his own experiences and the lives of six groundbreaking figures, to find the context of loneliness and to see what some people have done to navigate this profound sense of discomfort. Within the back stories to Melanie Klein\u2019s contributions to psychoanalysis, Zora Neale Hurston\u2019s literary and ethnographic writing, the philosophical essays of Walter Benjamin, Walker Evans\u2019s photography of urban alienation"
+  },
+  "paula-mcdowell": {
+    "slug": "paula-mcdowell",
+    "name": "Paula McDowell",
+    "professional_title": "Professor of English, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "simon-critchley": {
+    "slug": "simon-critchley",
+    "name": "Simon Critchley",
+    "professional_title": "Hans Jonas Professor of Philosophy, New School for Social Research",
+    "has_papers": true,
+    "papers_text": "https://www.simoncritchley.org/"
+  },
+  "eric-klinenberg": {
+    "slug": "eric-klinenberg",
+    "name": "Eric Klinenberg",
+    "professional_title": "Helen Gould Shepard Professor in the Social Sciences, New York UniversityDirector, Institute for Public Knowledge at New York University",
+    "has_papers": true,
+    "papers_text": "2020: One City, Seven People, and the Year Everything Changed2020 will go down alongside 1914, 1929, and 1968 as one of the most consequential years in history. This riveting and affecting book is the first attempt to capture the full human experience of that fateful time. At the heart of 2020 are seven vivid profiles of ordinary New Yorkers\u2014including an elementary school principal, a bar manager, a subway custodian, and a local political aide\u2014whose experiences illuminate how Americans, and people across the globe, reckoned with 2020. Through these poignant stories, we revisit our own moments of hope and fear, the profound tragedies and losses in our communities, the mutual aid networks that brought us together, and the social movements that hinted at the possibilities of a better world.Eric Klinenberg vividly captures these stories, casting them against the backdrop of a high-stakes presidential election, a surge of misinformation, rising distrust, and raging protests. We move from th"
+  },
+  "nathalie-sinclair": {
+    "slug": "nathalie-sinclair",
+    "name": "Nathalie Sinclair",
+    "professional_title": "Distinguished University Professor, Faculty of Education, Simon Fraser University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jared-weinstein": {
+    "slug": "jared-weinstein",
+    "name": "Jared Weinstein",
+    "professional_title": "Professor, Mathematics & Statistics, Boston University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mabel-berezin": {
+    "slug": "mabel-berezin",
+    "name": "Mabel Berezin",
+    "professional_title": "Distinguished\u00a0Professor, Arts & Sciences in\u00a0Sociology, Cornell UniversityDirector, Institute for Europeans Studies, Einaudi Center for International Studies, Cornell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rob-hopkins": {
+    "slug": "rob-hopkins",
+    "name": "Rob Hopkins",
+    "professional_title": "Professor of Philosophy, New York University",
+    "has_papers": true,
+    "papers_text": "Imaginative Understanding, Affective Profiles, and the Expression of Emotions in Art(The Journal of Aesthetics and Art Criticism, 2017)"
+  },
+  "viviane-silvera": {
+    "slug": "viviane-silvera",
+    "name": "Viviane Silvera",
+    "professional_title": "Artist & filmmaker",
+    "has_papers": true,
+    "papers_text": "See Memory (2022)"
+  },
+  "rosalind-picard": {
+    "slug": "rosalind-picard",
+    "name": "Rosalind Picard",
+    "professional_title": "Founder & Director, Affective Computing Research Group, MIT Media LaboratoryCo-founder & Chief Scientist, Empatica",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniela-schiller": {
+    "slug": "daniela-schiller",
+    "name": "Daniela Schiller",
+    "professional_title": "Professor, Neuroscience & Psychiatry, Icahn School of Medicine at Mt. Sinai",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sam-mcdougle": {
+    "slug": "sam-mcdougle",
+    "name": "Sam McDougle",
+    "professional_title": "Assistant Professor of Psychology, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lisa-kaltenegger": {
+    "slug": "lisa-kaltenegger",
+    "name": "Lisa Kaltenegger",
+    "professional_title": "Founding Director, Carl Sagan Institute to Search for Life in the CosmosAssociate Professor, Astronomy, Cornell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "victoria-loustalot": {
+    "slug": "victoria-loustalot",
+    "name": "Victoria Loustalot",
+    "professional_title": "Author, editor, & communications consultant",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sara-seager": {
+    "slug": "sara-seager",
+    "name": "Sara Seager",
+    "professional_title": "AstrophysicistProfessor Physics, Planetary Science, Aeronautics & Astronautics, Massachusetts Institute of Technology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-kipping": {
+    "slug": "david-kipping",
+    "name": "David Kipping",
+    "professional_title": "Associate Professor, Astronomy, Columbia UniversityDirector, Cool Worlds team",
+    "has_papers": true,
+    "papers_text": "Formulation and Resolutions of the Red Sky Paradox (2021)An Objective Bayesian Analysis of Life\u2019s Early Start and Our Late Arrival (2020)"
+  },
+  "rebecca-oppenheimer": {
+    "slug": "rebecca-oppenheimer",
+    "name": "Rebecca Oppenheimer",
+    "professional_title": "Curator & Professor, Department of Astrophysics, Division of Physical Sciences, Richard Gilder Graduate School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-kastan": {
+    "slug": "david-kastan",
+    "name": "David Scott Kastan",
+    "professional_title": "George M. Bodman Emeritus Professor, English at Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "carl-cofield": {
+    "slug": "carl-cofield",
+    "name": "Carl Cofield",
+    "professional_title": "Chair of Graduate Acting, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jeff-dolven": {
+    "slug": "jeff-dolven",
+    "name": "Jeff Dolven",
+    "professional_title": "PoetProfessor | Acting Chair, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rhodri-lewis": {
+    "slug": "rhodri-lewis",
+    "name": "Rhodri Lewis",
+    "professional_title": "Professor, English & Comparative Literature, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sophie-mcintosh": {
+    "slug": "sophie-mcintosh",
+    "name": "Sophie McIntosh",
+    "professional_title": "PlaywrightCo-founder, Good Apples Collective",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jon-chun": {
+    "slug": "jon-chun",
+    "name": "Jon Chun",
+    "professional_title": "Founding Co-Director KDH LabKenyon College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "george-denfield": {
+    "slug": "george-denfield",
+    "name": "George Denfield",
+    "professional_title": "Neuroscience & Psychiatry Resident Physician, Columbia University & New York State Psychiatric Institute.",
+    "has_papers": true,
+    "papers_text": "Kyzar, E and Denfield, GH. Taking subjectivity seriously: towards a unification of phenomenology, psychiatry, and neuroscience.Molecular Psychiatry2023; 28, 10\u201316https://doi.org/10.1038/s41380-022-01891-2.PMID:\u00a036460728."
+  },
+  "r-john-williams": {
+    "slug": "r-john-williams",
+    "name": "R. John Williams",
+    "professional_title": "Associate Professor, English, Film and Media, at Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gail-weiss": {
+    "slug": "gail-weiss",
+    "name": "Gail Weiss",
+    "professional_title": "Professor of Philosophy, George Washington University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "edward-tenner": {
+    "slug": "edward-tenner",
+    "name": "Edward Tenner",
+    "professional_title": "Writer & Speaker",
+    "has_papers": true,
+    "papers_text": "American MandarinsWho\u2019s an Expert? How Can You Tell? (Milken Institute Review, 2022)The Virus and the Volcano (Milken Institute Review, 2020)"
+  },
+  "yonina-hoffman": {
+    "slug": "yonina-hoffman",
+    "name": "Yonina Hoffman",
+    "professional_title": "Assistant Professor, English, US Merchant Marine Academy",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-sulzer": {
+    "slug": "david-sulzer",
+    "name": "David Sulzer",
+    "professional_title": "Professor of Psychiatry, Neurology, Pharmacology, Columbia University & New York State Psychiatric Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gyorgy-buzsaki": {
+    "slug": "gyorgy-buzsaki",
+    "name": "Gy\u00f6rgy Buzs\u00e1ki",
+    "professional_title": "Biggs Professor of Neuroscience, New York University",
+    "has_papers": true,
+    "papers_text": "Rhythms of the Brain (OUP, 2006)The Brain from Inside Out (OUP, 2019)"
+  },
+  "marc-van-de-mieroop": {
+    "slug": "marc-van-de-mieroop",
+    "name": "Marc Van De Mieroop",
+    "professional_title": "Professor, History, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-novacek": {
+    "slug": "michael-novacek",
+    "name": "Michael Novacek",
+    "professional_title": "Curator & Professor of Paleontology, American Museum of Natural History",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "karen-b-stern": {
+    "slug": "karen-b-stern",
+    "name": "Karen B. Stern",
+    "professional_title": "Professor of History, Brooklyn College of the City, University of New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "laura-edelson": {
+    "slug": "laura-edelson",
+    "name": "Laura Edelson",
+    "professional_title": "Postdoctoral Researcher, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrew-guess": {
+    "slug": "andrew-guess",
+    "name": "Andrew Guess",
+    "professional_title": "Assistant Professor, Politics & Public Affairs, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "yotam-ophir": {
+    "slug": "yotam-ophir",
+    "name": "Yotam Ophir",
+    "professional_title": "Assistant Professor, Communication, University at Buffalo",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "susana-martinez-conde": {
+    "slug": "susana-martinez-conde",
+    "name": "Susana Martinez-Conde",
+    "professional_title": "Professor of Ophthalmology, Neurology, and Physiology & Pharmacology, SUNY Downstate Health Sciences University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-hansen": {
+    "slug": "mark-hansen",
+    "name": "Mark Hansen",
+    "professional_title": "David & Helen Gurley Brown Professor of Journalism & Innovation, Columbia Journalism SchoolDirector, David and Helen Gurley Brown Institute of Media Innovation",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "peter-a-gloor": {
+    "slug": "peter-a-gloor",
+    "name": "Peter A. Gloor",
+    "professional_title": "Research Scientist, Center for Collective Intelligence, MIT's Sloan School of Management",
+    "has_papers": true,
+    "papers_text": "Happimetrics: Leveraging AI to Untangle the Surprising Link Between Ethics, Happiness and Business Success (2022)"
+  },
+  "nikos-salingaros": {
+    "slug": "nikos-salingaros",
+    "name": "Nikos Salingaros",
+    "professional_title": "Professor, Mathematics & Architecture, University of Texas at San Antonio",
+    "has_papers": true,
+    "papers_text": "Architectural memes in a universe of information (Mondes Francophones, 2006)A Theory of Architechture \u2013 Chapter 10,Darwinian Processes and Memes in Architechture: A Memetic Theory of Modernism. (2006)"
+  },
+  "kyunghyun-cho": {
+    "slug": "kyunghyun-cho",
+    "name": "Kyunghyun Cho",
+    "professional_title": "Associate Professor, Computer Science & Data Science, New York UniversityCIFAR Fellow, Learning in Machines & Brains",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "katherine-elkins": {
+    "slug": "katherine-elkins",
+    "name": "Katherine Elkins",
+    "professional_title": "Professor of Humanities and Comparative LiteratureDirector of The Integrated Program in Humane StudiesFounding Co-Director KDH LabKenyon College",
+    "has_papers": true,
+    "papers_text": "The Shape of Stories (Cambridge University Press, 2022)Proust\u2019s In Search of Lost Time: Philosophical Perspectives (Oxford Academic, 2022)Can GPT-3 Pass a Writer\u2019s Turing Test? (Journal of Cultural Analytics, 2020)"
+  },
+  "chris-fuchs": {
+    "slug": "chris-fuchs",
+    "name": "Christopher Fuchs",
+    "professional_title": "Professor, Physics, College of Science & Mathematics at UMass Boston",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "noah-giansiracusa": {
+    "slug": "noah-giansiracusa",
+    "name": "Noah Giansiracusa",
+    "professional_title": "Assistant Professor, Mathematics & Data Science, Bentley University",
+    "has_papers": true,
+    "papers_text": "The Problems with AI Go Way Beyond Sentience (Barron\u2019s, 2022)"
+  },
+  "dennis-yi-tenen": {
+    "slug": "dennis-yi-tenen",
+    "name": "Dennis Yi Tenen",
+    "professional_title": "Associate Professor, English & Comparative Literature, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sylvester-james-gates": {
+    "slug": "sylvester-james-gates",
+    "name": "Sylvester James Gates",
+    "professional_title": "Clark Leadership Chair in Science, Distinguished University Professor & Regents Professor, University of Maryland",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-chalmers-2": {
+    "slug": "david-chalmers-2",
+    "name": "David Chalmers",
+    "professional_title": "Professor of Philosophy and Neural Science, New York UniversityCo-Director, Center for Mind, Brain, & Consciousness, New York University",
+    "has_papers": true,
+    "papers_text": "Reality + (2022)"
+  },
+  "hans-halvorson": {
+    "slug": "hans-halvorson",
+    "name": "Hans Halvorson",
+    "professional_title": "Stuart Professor of Philosophy, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "emily-adlam": {
+    "slug": "emily-adlam",
+    "name": "Emily Adlam",
+    "professional_title": "Postdoctoral Associate, Rotman Institute for Philosophy of Science, University of Western Ontario",
+    "has_papers": true,
+    "papers_text": "Foundations of Quantum Mechanics (2021)"
+  },
+  "gregg-jaeger": {
+    "slug": "gregg-jaeger",
+    "name": "Gregg Jaeger",
+    "professional_title": "Professor, Natural Sciences & Mathematics, Boston University",
+    "has_papers": true,
+    "papers_text": "\u201cThe Particles of Quantum Fields,\u201d Entropy 23, 1416 (2021).\u201cExchange Forces in Particle Physics,\u201d Foundations of Physics 51, 13 (2021).\u201cAre Virtual Particles Less Real?\u201d Entropy 21, 141 (2019).\u201cQuantum Potentiality Revisited,\u201d\u00a0Philosophical Transactions of the Royal Society of London A 375, 20160390 (2017).\u201cUnsharp Quantum Reality\u201d (with Paul Busch), Foundations of Physics 40, 1341 (2010).\u201cCoherence, entanglement, and reductionist explanation in quantum physics,\u201d (with\u00a0Sahotra Sarkar). InRevisiting the foundations of relativistic physics(A. Ashtekar et al., eds.), (Kluwer: Dordrecht, 2003), p. 523.\u201cTwo interferometric complementarities\u201d (with Abner Shimony and Lev Vaidman), Physical Review A 51, 54 (1995)."
+  },
+  "arkady-plotnitsky": {
+    "slug": "arkady-plotnitsky",
+    "name": "Arkady Plotnitsky",
+    "professional_title": "Distinguished Professor, Literature, Theory and Cultural Studies, Purdue UniversityDistinguished Professor, Philosophy and Literature, Purdue University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elizabeth-barnes": {
+    "slug": "elizabeth-barnes",
+    "name": "Elizabeth Barnes",
+    "professional_title": "Professor, Philosophy, University of Virginia",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "stephen-ross": {
+    "slug": "stephen-ross",
+    "name": "Stephen Ross",
+    "professional_title": "Research Associate Professor, Psychiatry and Child & Adolescent Psychiatry, NYU Grossman School of Medicine",
+    "has_papers": true,
+    "papers_text": "Rapid and sustained symptom reductionfollowing psilocybin treatment for anxiety anddepression in patients with life-threateningcancer: a randomized controlled trial(J Psychopharm, 2016)Therapeutic use of classic psychedelics to treatcancer-related psychiatric distress(International Review of Psychiatry, 2018)Long-term follow-up of psilocybin-assistedpsychotherapy for psychiatric and existentialdistress in patients with life-threateningcancer(J Psychopharm, 2020)"
+  },
+  "elias-dakwar": {
+    "slug": "elias-dakwar",
+    "name": "Elias Dakwar",
+    "professional_title": "Associate Professor, Clinical Psychiatry, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "patricia-dailey": {
+    "slug": "patricia-dailey",
+    "name": "Patricia Dailey",
+    "professional_title": "Associate Professor of English and Comparative Literature, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alex-kwan": {
+    "slug": "alex-kwan",
+    "name": "Alex Kwan",
+    "professional_title": "Associate Professor, Department of Psychiatry, Yale University",
+    "has_papers": true,
+    "papers_text": "Introduction to Psychedelics (2021)Psilocybin induces rapid and persistent growth ofdendritic spines in frontal cortexin vivo (2021)"
+  },
+  "nese-devenot": {
+    "slug": "nese-devenot",
+    "name": "Ne\u015fe Devenot",
+    "professional_title": "Postdoctoral Associate, Institute for Research in Sensing (IRiS) University of CincinnatiAffiliate Scholar, Center for Psychedelic Drug Research & Education (CPDRE), Ohio State UniversityMedicine, Society & Culture Research Fellow, Psymposia.",
+    "has_papers": true,
+    "papers_text": "Medical Ecstasies: Chemical Synthesis and Self-Experimentation in Romantic Science and Poetry(2019)Right-Wing Psychedelia: Case Studies in Cultural Plasticity and Political(2021)Psychedelic medicalization, public discourse, and the morality of ego dissolution(2021)"
+  },
+  "david-w-schwartzman": {
+    "slug": "david-w-schwartzman",
+    "name": "David W. Schwartzman",
+    "professional_title": "Professor Emeritus, Biology, Howard University",
+    "has_papers": true,
+    "papers_text": "Can the 1.5 \u2103 warming target be met in a global transition to 100% renewable energy? (2021)"
+  },
+  "richard-howarth": {
+    "slug": "richard-howarth",
+    "name": "Richard Howarth",
+    "professional_title": "Professor of Environmental Studies at Dartmouth CollegeEditor-in-Chief, Ecological Economics",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jennifer-jacquet": {
+    "slug": "jennifer-jacquet",
+    "name": "Jennifer Jacquet",
+    "professional_title": "Associate Professor, Departmant of Environmental Studies, NYUDirector, XE: Experimental Humanities & Social Engagement, NYU",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nicholas-economides": {
+    "slug": "nicholas-economides",
+    "name": "Nicholas Economides",
+    "professional_title": "Professor of Economics, Stern School of Business, NYU",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nathaniel-comfort": {
+    "slug": "nathaniel-comfort",
+    "name": "Nathaniel Comfort",
+    "professional_title": "Professor, History of Medicine, Johns Hopkins University",
+    "has_papers": true,
+    "papers_text": "The dream of designing human babies has a long and peculiar history (2015)Sociogenomic is opening a new door to eugenics (2018)How science has shifted our sense of identity (2019)"
+  },
+  "vardit-ravitsky": {
+    "slug": "vardit-ravitsky",
+    "name": "Vardit Ravitsky",
+    "professional_title": "Professor, Bioethics Program, School of Public Health, University of MontrealPresident, International Association of BioethicsSenior Lecturer on Global Health and Social Medicine, Harvard Medical School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "henry-greely": {
+    "slug": "henry-greely",
+    "name": "Henry Greely",
+    "professional_title": "Deane F. and Kate Edelman Johnson Professor of Law, Stanford UniversityDirector, Center for Law and the Biosciences, Stanford University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "charles-marmar": {
+    "slug": "charles-marmar",
+    "name": "Charles Marmar",
+    "professional_title": "Schub Professor and Chair, Department of Psychiatry, NYU Grossman School of MedicineDirector, NYU Center for Precision Medicine in Alcohol Use Disorder & PTSDExecutive Director, NYU Langone Military Family Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ben-bernstein": {
+    "slug": "ben-bernstein",
+    "name": "Ben Bernstein",
+    "professional_title": "Psychologist, Educator, & Author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "allison-avery": {
+    "slug": "allison-avery",
+    "name": "Allison Avery",
+    "professional_title": "Vice President of Inclusion and Community, Dow Jones",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ralph-wharton": {
+    "slug": "ralph-wharton",
+    "name": "Ralph Wharton",
+    "professional_title": "Professor, Psychiatry, Columbia University College of Physicians and SurgeonsAttending Psychiatrist, New York Presbyterian Medical Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "kathryn-hall": {
+    "slug": "kathryn-hall",
+    "name": "Kathryn Hall",
+    "professional_title": "Director of Basic & Translational Research, Osher Center for Integrative MedicineAssistant Professor, Medicine, Division of Preventive Medicine, Brigham and Women\u2019s Hospital & Harvard Medical School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "robert-klitzman": {
+    "slug": "robert-klitzman",
+    "name": "Robert Klitzman",
+    "professional_title": "Professor, Psychiatry, Columbia UniversityDirector, Bioethics Program, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jeffrey-alexander": {
+    "slug": "jeffrey-alexander",
+    "name": "Jeffrey Alexander",
+    "professional_title": "Lillian Chavenson Saden Professor of Sociology, Yale UniversityCo-Director, Yale\u2019s Center for Cultural SociologyCo-Editor, The American Journal of Cultural Sociology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "luana-colloca": {
+    "slug": "luana-colloca",
+    "name": "Luana Colloca",
+    "professional_title": "Associate Professor, Pain & Translational Symptom Science, University of Maryland",
+    "has_papers": true,
+    "papers_text": "Placebo and Nocebo Effects (New England Journal of Medicine, 2020)"
+  },
+  "takis-pappas": {
+    "slug": "takis-pappas",
+    "name": "Takis Pappas",
+    "professional_title": "Author & Researcher, University of Helsinki, Finland",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "harry-l-watson": {
+    "slug": "harry-l-watson",
+    "name": "Harry L. Watson",
+    "professional_title": "Atlanta Distinguished Professor of Southern Culture, University of North Carolina at Chapel Hill",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dhananjay-jagannathan": {
+    "slug": "dhananjay-jagannathan",
+    "name": "Dhananjay Jagannathan",
+    "professional_title": "Assistant Professor, Philosophy, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andy-lee": {
+    "slug": "andy-lee",
+    "name": "Andy Lee",
+    "professional_title": "Associate Professor of Psychology, University of Toronto Scarborough",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "richard-cohen": {
+    "slug": "richard-cohen",
+    "name": "Richard Cohen",
+    "professional_title": "Author, Writer",
+    "has_papers": true,
+    "papers_text": "\u201cBut Just Remember This\u201d(Academica Press, 2019)"
+  },
+  "rayid-ghani": {
+    "slug": "rayid-ghani",
+    "name": "Rayid Ghani",
+    "professional_title": "Distinguished Career Professor, Machine Learning Department, Heinz College of Information Systems & Public Policy, Carnegie Mellon University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gayatri-devi": {
+    "slug": "gayatri-devi",
+    "name": "Gayatri Devi",
+    "professional_title": "Director of Park Avenue NeurologyClinical Professor of Neurology, SUNY Downstate Medical Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tracey-mears": {
+    "slug": "tracey-mears",
+    "name": "Tracey Meares",
+    "professional_title": "Walton Hale Hamilton Professor, Yale Law SchoolFounding Director, Justice Collaboratory, Yale Law School",
+    "has_papers": true,
+    "papers_text": "Social media governance: can social media companies motivate voluntary rule following behavior among their users?"
+  },
+  "gabbrielle-johnson": {
+    "slug": "gabbrielle-johnson",
+    "name": "Gabbrielle Johnson",
+    "professional_title": "Assistant Professor, Philosophy, Claremont McKenna College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "setsuko-winchester": {
+    "slug": "setsuko-winchester",
+    "name": "Setsuko Winchester",
+    "professional_title": "Writer, Ceramicist, & Conceptual ArtistCreator of the Freedom from Fear/Yellow Bowl Project",
+    "has_papers": true,
+    "papers_text": "www.yellowbowlproject.com/blog\u2013 Feel free to reach her here or comment on what you think it means to be an American"
+  },
+  "kristen-lindquist": {
+    "slug": "kristen-lindquist",
+    "name": "Kristen Lindquist",
+    "professional_title": "Associate Professor, Psychology & Neuroscience, University of North Carolina at Chapel Hill",
+    "has_papers": true,
+    "papers_text": "https://science.sciencemag.org/content/366/6472/1517"
+  },
+  "susan-schneider": {
+    "slug": "susan-schneider",
+    "name": "Susan Schneider",
+    "professional_title": "NASA/Baruch Blumberg Chair, Library of CongressDirector of the AI, Mind and Society Group, University of Connecticut",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tina-eliassi-rad": {
+    "slug": "tina-eliassi-rad",
+    "name": "Tina Eliassi-Rad",
+    "professional_title": "Professor, Computer Science, Northeastern University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "karl-joseph-niklas": {
+    "slug": "karl-joseph-niklas",
+    "name": "Karl Joseph Niklas",
+    "professional_title": "Liberty Hyde Bailey Professor of Plant Biology emeritus, School of Integrative Plant Science, Cornell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alma-steingart": {
+    "slug": "alma-steingart",
+    "name": "Alma Steingart",
+    "professional_title": "Assistant Professor, History, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "markus-gabriel": {
+    "slug": "markus-gabriel",
+    "name": "Markus Gabriel",
+    "professional_title": "Chair for Epistemology, Modern and Contemporary Philosophy, University of Bonn",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "hartry-field": {
+    "slug": "hartry-field",
+    "name": "Hartry Field",
+    "professional_title": "Silver Professor, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "kristopher-mcdaniel": {
+    "slug": "kristopher-mcdaniel",
+    "name": "Kristopher McDaniel",
+    "professional_title": "Professor of Philosophy, University of Notre Dame",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joseph-luzzi": {
+    "slug": "joseph-luzzi",
+    "name": "Joseph Luzzi",
+    "professional_title": "Asher B. Edelman Professor of Literature, Bard CollegeAuthor",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "percival-everett": {
+    "slug": "percival-everett",
+    "name": "Percival Everett",
+    "professional_title": "Distinguished Professor of English, University of Southern CaliforniaAuthor",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "yiyun-li": {
+    "slug": "yiyun-li",
+    "name": "Yiyun Li",
+    "professional_title": "AuthorProfessor of Creative Writing, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "stephanie-dick": {
+    "slug": "stephanie-dick",
+    "name": "Stephanie Dick",
+    "professional_title": "Assistant Professor, History and Sociology of Science, University of Pennsylvania",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "reuben-hersh": {
+    "slug": "reuben-hersh",
+    "name": "Reuben Hersh",
+    "professional_title": "Professor emeritus, University of New Mexico",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "thomas-hales-callister": {
+    "slug": "thomas-hales-callister",
+    "name": "Thomas Callister Hales",
+    "professional_title": "Mellon Professor of Mathematics, University of Pittsburgh",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "anna-balas": {
+    "slug": "anna-balas",
+    "name": "Anna Balas",
+    "professional_title": "Associate Professor, Clinical Psychiatry, Weill Cornell Medical College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jonathan-stray": {
+    "slug": "jonathan-stray",
+    "name": "Jonathan Stray",
+    "professional_title": "Research Scholar, Columbia UniversityComputational Journalist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "emma-levine": {
+    "slug": "emma-levine",
+    "name": "Emma Levine",
+    "professional_title": "Assistant Professor of Behavioral Science, University of Chicago Booth School of Business",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lynn-zeavin": {
+    "slug": "lynn-zeavin",
+    "name": "Lynn Zeavin",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "neil-garrett": {
+    "slug": "neil-garrett",
+    "name": "Neil Garrett",
+    "professional_title": "Henry Wellcome Research Fellow in Cognitive Neuroscience, Oxford University",
+    "has_papers": true,
+    "papers_text": "Dishonesty gets easier on the brain the more you do itWhy being dishonest is a slippery slope"
+  },
+  "francis-shen": {
+    "slug": "francis-shen",
+    "name": "Francis X. Shen",
+    "professional_title": "Executive Director, Harvard MGH Center for Law, Brain, and Behavior",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tayarisha-poe": {
+    "slug": "tayarisha-poe",
+    "name": "Tayarisha Poe",
+    "professional_title": "Independent Filmmaker",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-levine": {
+    "slug": "david-levine",
+    "name": "David Levine",
+    "professional_title": "Professor of the Practice of Performance, Theater, and Media, Harvard University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "w-warner-burke": {
+    "slug": "w-warner-burke",
+    "name": "W. Warner Burke",
+    "professional_title": "E.L. Thorndike Professor of Psychology and Education at Teachers College, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-kress": {
+    "slug": "john-kress",
+    "name": "John Kress",
+    "professional_title": "Distinguished Scientist & Curator of Botany, Smithsonian's National Museum of Natural History",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dale-jamieson": {
+    "slug": "dale-jamieson",
+    "name": "Dale Jamieson",
+    "professional_title": "Professor of Environmental Studies and Philosophy, Affiliated Professor of Law, and Director of the Center for Environmental and Animal Protection, New York University.",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "branden-fitelson": {
+    "slug": "branden-fitelson",
+    "name": "Branden Fitelson",
+    "professional_title": "Distinguished Professor of Philosophy, Northeastern University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "peter-stearns": {
+    "slug": "peter-stearns",
+    "name": "Peter Stearns",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "cathy-oneil": {
+    "slug": "cathy-oneil",
+    "name": "Cathy O&#8217;Neil",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joseph-adamson": {
+    "slug": "joseph-adamson",
+    "name": "Joseph Adamson",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nermeen-shaikh": {
+    "slug": "nermeen-shaikh",
+    "name": "Nermeen Shaikh",
+    "professional_title": "Co-Host & News Producer, Democracy Now!",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-lewis-2": {
+    "slug": "michael-lewis-2",
+    "name": "Michael Lewis",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "richard-a-shweder": {
+    "slug": "richard-a-shweder",
+    "name": "Richard A. Shweder",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "amitav-ghosh": {
+    "slug": "amitav-ghosh",
+    "name": "Amitav Ghosh",
+    "professional_title": "Author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ken-dill": {
+    "slug": "ken-dill",
+    "name": "Ken Dill",
+    "professional_title": "Professor of Physics and Chemistry, Stony Brook UniversityDirector of the Laufer Center for Physical Biology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dennis-overbye": {
+    "slug": "dennis-overbye",
+    "name": "Dennis Overbye",
+    "professional_title": "Correspondent, New York Times",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "donald-moss": {
+    "slug": "donald-moss",
+    "name": "Donald Moss",
+    "professional_title": "Program Chair of APsaA",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "edwin-turner": {
+    "slug": "edwin-turner",
+    "name": "Edwin Turner",
+    "professional_title": "Professor of Astrophysical Sciences, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "cheryl-corcoran": {
+    "slug": "cheryl-corcoran",
+    "name": "Cheryl Corcoran",
+    "professional_title": "Associate Professor of Psychiatry & Program Leader in Psychosis Risk, Icahn School of Medicine at Mount Sinai",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "aaditya-rangan": {
+    "slug": "aaditya-rangan",
+    "name": "Aaditya Rangan",
+    "professional_title": "Associate Professor, Mathematics, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-murray": {
+    "slug": "john-murray",
+    "name": "John Murray",
+    "professional_title": "Assistant Professor of Psychiatry, Neuroscience, and Physics, Yale University School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gul-dolen": {
+    "slug": "gul-dolen",
+    "name": "Gul Dolen",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "josh-aronson": {
+    "slug": "josh-aronson",
+    "name": "Josh Aronson",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "garry-hagberg": {
+    "slug": "garry-hagberg",
+    "name": "Garry Hagberg",
+    "professional_title": "James H. Ottaway Professor of Philosophy and Aesthetics, Bard College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "larry-amsel": {
+    "slug": "larry-amsel",
+    "name": "Larry Amsel",
+    "professional_title": "Assistant Professor of Clinical Psychiatry, Columbia University Irving Medical Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-serpell": {
+    "slug": "james-serpell",
+    "name": "James Serpell",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elizabeth-hess": {
+    "slug": "elizabeth-hess",
+    "name": "Elizabeth Hess",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "laura-hirshbein": {
+    "slug": "laura-hirshbein",
+    "name": "Laura Hirshbein",
+    "professional_title": "Professor of Psychiatry, University of Michigan",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "miklos-toth": {
+    "slug": "miklos-toth",
+    "name": "Miklos Toth",
+    "professional_title": "Professor of Pharmacology, Weill Cornell Medical College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "avner-ash": {
+    "slug": "avner-ash",
+    "name": "Avner Ash",
+    "professional_title": "Professor of Mathematics, Boston College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "peter-pesic": {
+    "slug": "peter-pesic",
+    "name": "Peter Pesic",
+    "professional_title": "Director of the Science Institute & Musician-in-Residence, St. John's College (Santa Fe, NM)",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "barry-mazur": {
+    "slug": "barry-mazur",
+    "name": "Barry Mazur",
+    "professional_title": "Gerhard Gade University Professor, Harvard University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-harris": {
+    "slug": "michael-harris",
+    "name": "Michael Harris",
+    "professional_title": "Professor of Mathematics, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-first": {
+    "slug": "michael-first",
+    "name": "Michael First",
+    "professional_title": "Professor of Clinical Psychiatry, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "katepalli-sreenivasan": {
+    "slug": "katepalli-sreenivasan",
+    "name": "Katepalli Sreenivasan",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "robert-michels": {
+    "slug": "robert-michels",
+    "name": "Robert Michels",
+    "professional_title": "Walsh McDermott University Professor of Medicine and Psychiatry, Weill-Cornell Medical College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "denis-pelli": {
+    "slug": "denis-pelli",
+    "name": "Denis Pelli",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rluke-dubois": {
+    "slug": "rluke-dubois",
+    "name": "R. Luke DuBois",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dana-karwas": {
+    "slug": "dana-karwas",
+    "name": "Dana Karwas",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "enrico-fonda": {
+    "slug": "enrico-fonda",
+    "name": "Enrico Fonda",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "josefa-ros-verlasco": {
+    "slug": "josefa-ros-verlasco",
+    "name": "Josefa Ros Velasco",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-eastwood": {
+    "slug": "john-eastwood",
+    "name": "John Eastwood",
+    "professional_title": "Associate Professor of Clinical Psychology, York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lee-silver": {
+    "slug": "lee-silver",
+    "name": "Lee Silver",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gerald-hurowitz": {
+    "slug": "gerald-hurowitz",
+    "name": "Gerald Hurowitz",
+    "professional_title": "Associate Director, The Helix CenterAssistant Professor of Clinical Psychiatry, Columbia University Medical Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jacqueline-gottlieb": {
+    "slug": "jacqueline-gottlieb",
+    "name": "Jacqueline Gottlieb",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "hava-tirosh-samuelson": {
+    "slug": "hava-tirosh-samuelson",
+    "name": "Hava Tirosh-Samuelson",
+    "professional_title": "Regents\u2019 Professor, Irving and Miriam Lowe Professor of Modern Judaism, Director of Jewish Studies, and Professor of History, Arizona State University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "stephen-post": {
+    "slug": "stephen-post",
+    "name": "Stephen Post",
+    "professional_title": "Director of the Center for Medical Humanities, Compassionate Care, and Bioethics, Stony Brook University School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "barbara-montero": {
+    "slug": "barbara-montero",
+    "name": "Barbara Montero",
+    "professional_title": "Professor of Philosophy, University of Notre Dame",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jonathan-kramnick": {
+    "slug": "jonathan-kramnick",
+    "name": "Jonathan Kramnick",
+    "professional_title": "Maynard Mack Professor of English, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tarah-rhoda": {
+    "slug": "tarah-rhoda",
+    "name": "Tarah Rhoda",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alexis-gambis": {
+    "slug": "alexis-gambis",
+    "name": "Alexis Gambis",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "george-makari": {
+    "slug": "george-makari",
+    "name": "George Makari",
+    "professional_title": "Director, The DeWitt Wallace Institute for the History of PsychiatryProfessor of Psychiatry, Weill-Cornell Medical College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "karen-ingram": {
+    "slug": "karen-ingram",
+    "name": "Karen Ingram",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "patricia-olynyk": {
+    "slug": "patricia-olynyk",
+    "name": "Patricia Olynyk",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "edgar-choueiri": {
+    "slug": "edgar-choueiri",
+    "name": "Edgar Choueiri",
+    "professional_title": "Professor of Applied Physics, Department of Mechanical and Aerospace Engineering and Associated Faculty, Department of Astrophysical Sciences, Program in Plasma Physics, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tega-brain": {
+    "slug": "tega-brain",
+    "name": "Tega Brain",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniel-kohn": {
+    "slug": "daniel-kohn",
+    "name": "Daniel Kohn",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elizabeth-waters": {
+    "slug": "elizabeth-waters",
+    "name": "Elizabeth Waters",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "suzanne-anker": {
+    "slug": "suzanne-anker",
+    "name": "Suzanne Anker",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "amy-holman": {
+    "slug": "amy-holman",
+    "name": "Amy Holman",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paolo-javier": {
+    "slug": "paolo-javier",
+    "name": "Paolo Javier",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "patricia-carlin": {
+    "slug": "patricia-carlin",
+    "name": "Patricia Carlin",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "stephen-massimilla": {
+    "slug": "stephen-massimilla",
+    "name": "Stephen Massimilla",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nancy-princenthal": {
+    "slug": "nancy-princenthal",
+    "name": "Nancy Princenthal",
+    "professional_title": "Writer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "amelia-amon": {
+    "slug": "amelia-amon",
+    "name": "Amelia Amon",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniel-hill": {
+    "slug": "daniel-hill",
+    "name": "Daniel Hill",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elizabeth-demaray": {
+    "slug": "elizabeth-demaray",
+    "name": "Elizabeth Demaray",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ellen-levy": {
+    "slug": "ellen-levy",
+    "name": "Ellen Levy",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniel-grushkin": {
+    "slug": "daniel-grushkin",
+    "name": "Daniel Grushkin",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "cynthia-pannucci": {
+    "slug": "cynthia-pannucci",
+    "name": "Cynthia Pannucci",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jill-bargonetti": {
+    "slug": "jill-bargonetti",
+    "name": "Jill Bargonetti",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "harvey-seifter": {
+    "slug": "harvey-seifter",
+    "name": "Harvey Seifter",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "natalie-jeremijenko": {
+    "slug": "natalie-jeremijenko",
+    "name": "Natalie Jeremijenko",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ben-lillie": {
+    "slug": "ben-lillie",
+    "name": "Ben Lillie",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alana-quinn": {
+    "slug": "alana-quinn",
+    "name": "Alana Quinn",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "erik-hoel": {
+    "slug": "erik-hoel",
+    "name": "Erik Hoel",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nirav-patel": {
+    "slug": "nirav-patel",
+    "name": "Nirav Patel",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "roger-malina": {
+    "slug": "roger-malina",
+    "name": "Roger Malina",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ashley-bear": {
+    "slug": "ashley-bear",
+    "name": "Ashley Bear",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "monica-aiello": {
+    "slug": "monica-aiello",
+    "name": "Monica Aiello",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jame-mccray": {
+    "slug": "jame-mccray",
+    "name": "Jame McCray",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "shane-mayak": {
+    "slug": "shane-mayak",
+    "name": "Shane Mayak",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-rosin": {
+    "slug": "mark-rosin",
+    "name": "Mark Rosin",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "noah-hutton": {
+    "slug": "noah-hutton",
+    "name": "Noah Hutton",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daphna-shohamy": {
+    "slug": "daphna-shohamy",
+    "name": "Daphna Shohamy",
+    "professional_title": "Associate Professor of Psychology, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "steven-sloman": {
+    "slug": "steven-sloman",
+    "name": "Steven Sloman",
+    "professional_title": "Professor of Cognitive, Linguistic and Psychological Sciences, Brown University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniel-kahneman": {
+    "slug": "daniel-kahneman",
+    "name": "Daniel Kahneman",
+    "professional_title": "Professor Emeritus, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "eric-kandel": {
+    "slug": "eric-kandel",
+    "name": "Eric Kandel",
+    "professional_title": "University Professor, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-boghossian": {
+    "slug": "paul-boghossian",
+    "name": "Paul Boghossian",
+    "professional_title": "Silver Professor of Philosophy, NYUDirector, Global Institute for Advanced Study, NYU",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ilya-temkin": {
+    "slug": "ilya-temkin",
+    "name": "Ilya T\u00ebmkin",
+    "professional_title": "Professor of Biology, Northern Virginia Community College (NOVA) and Research Associate, National Museum of Natural History (Smithsonian Institution)",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-grinspoon": {
+    "slug": "david-grinspoon",
+    "name": "David Grinspoon",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "william-grassie": {
+    "slug": "william-grassie",
+    "name": "William Grassie",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tyler-volk": {
+    "slug": "tyler-volk",
+    "name": "Tyler Volk",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elizabeth-alter": {
+    "slug": "elizabeth-alter",
+    "name": "Elizabeth Alter",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrea-norton": {
+    "slug": "andrea-norton",
+    "name": "Andrea Norton",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "adrian-bejan": {
+    "slug": "adrian-bejan",
+    "name": "Adrian Bejan",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "robin-collins": {
+    "slug": "robin-collins",
+    "name": "Robin Collins",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lisa-debenedittis": {
+    "slug": "lisa-debenedittis",
+    "name": "Lisa DeBenedittis",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "uri-hasson": {
+    "slug": "uri-hasson",
+    "name": "Uri Hasson",
+    "professional_title": "Associate Professor, Department of Psychology and the Neuroscience InstitutePeretsman-Scully Hall, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "morris-vogel": {
+    "slug": "morris-vogel",
+    "name": "Morris Vogel",
+    "professional_title": "President, the Tenement Museum",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "athena-viscusi": {
+    "slug": "athena-viscusi",
+    "name": "Athena Viscusi",
+    "professional_title": "Psychosocial Care Specialist at MSF/Doctors without Borders USA",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "simon-deng": {
+    "slug": "simon-deng",
+    "name": "Simon Deng",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "concetta-tomaino": {
+    "slug": "concetta-tomaino",
+    "name": "Concetta Tomaino",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-schaefer": {
+    "slug": "john-schaefer",
+    "name": "John Schaefer",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "allen-fein": {
+    "slug": "allen-fein",
+    "name": "Allen Fein",
+    "professional_title": "Professor, Department of Cell Biology, UConn Health",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrew-rossetti": {
+    "slug": "andrew-rossetti",
+    "name": "Andrew Rossetti",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "evelina-fedorenko": {
+    "slug": "evelina-fedorenko",
+    "name": "Evelina Fedorenko",
+    "professional_title": "Assistant Professor, Director of the EvLab at Harvard Medical School / Mass General Hospital",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "anis-dizdarevic": {
+    "slug": "anis-dizdarevic",
+    "name": "Anis Dizdarevic",
+    "professional_title": "Assistant Clinical Professor of Anesthesiology and Pain Medicine, Columbia University Medical Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "inna-belfer": {
+    "slug": "inna-belfer",
+    "name": "Inna Belfer",
+    "professional_title": "Health Scientist Administrator/Project OfficerOffice of Research on Women\u2019s Health",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rodolfo-llinas": {
+    "slug": "rodolfo-llinas",
+    "name": "Rodolfo Llin\u00e1s",
+    "professional_title": "Thomas and Suzanne Murphy Professor of NeuroscienceChairman Emmeritus, Department of Physiology & NeuroscienceNYU School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rebecca-seal": {
+    "slug": "rebecca-seal",
+    "name": "Rebecca Seal",
+    "professional_title": "Assistant ProfessorDepartments of Neurobiology and OtolaryngologyCenter for Pain Research, University of Pittsburgh",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "apkar-apkarian": {
+    "slug": "apkar-apkarian",
+    "name": "Apkar Apkarian",
+    "professional_title": "Professor of PhysiologyNorthwestern University, Feinberg School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "daniel-goroff": {
+    "slug": "daniel-goroff",
+    "name": "Daniel Goroff",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ken-soehner": {
+    "slug": "ken-soehner",
+    "name": "Ken Soehner",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "carol-mandel": {
+    "slug": "carol-mandel",
+    "name": "Carol Mandel",
+    "professional_title": "Dean, NYU Division of Libraries",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "anthony-grafton": {
+    "slug": "anthony-grafton",
+    "name": "Anthony Grafton",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "robert-darnton": {
+    "slug": "robert-darnton",
+    "name": "Robert Darnton",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jeffrey-kephart": {
+    "slug": "jeffrey-kephart",
+    "name": "Jeffrey Kephart",
+    "professional_title": "Distinguished RSM, Symbiotic Cognitive SystemsIEEE FellowMember, IBM Academy of Technology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "martha-welch": {
+    "slug": "martha-welch",
+    "name": "Martha Welch",
+    "professional_title": "Associate Professor of Psychiatry, Departments of Pediatrics and Pathology & Cell Biology, Columbia University Medical CenterDirector of the Nurture Science Program in PediatricsDirector of the BrainGut Initiative in Developmental Neuroscience",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "francesca-rossi": {
+    "slug": "francesca-rossi",
+    "name": "Francesca Rossi",
+    "professional_title": "IBM Fellow & IBM AI Ethics Global Leader",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-bess": {
+    "slug": "michael-bess",
+    "name": "Michael Bess",
+    "professional_title": "Chancellor\u2019s Professor of History, Vanderbilt University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrew-gerber": {
+    "slug": "andrew-gerber",
+    "name": "Andrew Gerber",
+    "professional_title": "Medical Director/CEO, the Austen Riggs CenterAssociate Clinical Professor in the Division of Child and Adolescent Psychiatry, Columbia University Medical Center in New York City",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "wendy-suzuki": {
+    "slug": "wendy-suzuki",
+    "name": "Wendy Suzuki",
+    "professional_title": "Professor of Neural Science and Psychology, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "shimon-edelman": {
+    "slug": "shimon-edelman",
+    "name": "Shimon Edelman",
+    "professional_title": "Professor of Psychology, Cornell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "benjamin-radcliff": {
+    "slug": "benjamin-radcliff",
+    "name": "Benjamin Radcliff",
+    "professional_title": "Professor of Political Science, the University of Notre Dame",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "grady-booch": {
+    "slug": "grady-booch",
+    "name": "Grady Booch",
+    "professional_title": "Chief Scientist for Software Engineering and Watson/M, IBM Research",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jeremy-veenstra-vanderweele": {
+    "slug": "jeremy-veenstra-vanderweele",
+    "name": "Jeremy Veenstra-VanderWeele",
+    "professional_title": "Mortmer D. Sackler, M.D. Associate Professor of Psychiatry Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ned-block-2": {
+    "slug": "ned-block-2",
+    "name": "Ned Block",
+    "professional_title": "Silver Professor of Philosophy, Psychology and Neural Science, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-hanson": {
+    "slug": "david-hanson",
+    "name": "David Hanson",
+    "professional_title": "Founder and CEO, Hanson Robotics Lab",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alberto-bisin": {
+    "slug": "alberto-bisin",
+    "name": "Alberto Bisin",
+    "professional_title": "Professor of Economics, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "craig-newschaffer": {
+    "slug": "craig-newschaffer",
+    "name": "Craig Newschaffer",
+    "professional_title": "Professor of Epidemiology and Biostatistics, Drexel University School of Public Health",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "christine-vitrano": {
+    "slug": "christine-vitrano",
+    "name": "Christine Vitrano",
+    "professional_title": "Associate Professor of Philosophy, Brooklyn College, CUNY",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "eric-r-marcus": {
+    "slug": "eric-r-marcus",
+    "name": "Eric R. Marcus",
+    "professional_title": "Director of the Columbia University Center for Psychoanalytic Training and Research; Professor of Clinical Psychiatry, Columbia University College of Physicians and Surgeons",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "robert-kurzban": {
+    "slug": "robert-kurzban",
+    "name": "Robert Kurzban",
+    "professional_title": "Professor of Psychology, University of Pennsylvania",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nouchine-hadjikhani": {
+    "slug": "nouchine-hadjikhani",
+    "name": "Nouchine Hadjikhani",
+    "professional_title": "Associate Professor in Radiology, Harvard Medical School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "kathleen-kete": {
+    "slug": "kathleen-kete",
+    "name": "Kathleen Kete",
+    "professional_title": "Professor of European History, Trinity College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joyce-chaplin": {
+    "slug": "joyce-chaplin",
+    "name": "Joyce Chaplin",
+    "professional_title": "James Duncan Phillips Professor of Early American History, Harvard University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "susan-seymour": {
+    "slug": "susan-seymour",
+    "name": "Susan Seymour",
+    "professional_title": "Jean M. Pitzer Professor Emerita of Anthropology, Pitzer College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "karen-maschke": {
+    "slug": "karen-maschke",
+    "name": "Karen Maschke",
+    "professional_title": "Researcher Scholar, The Hastings Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "morgan-stebbins": {
+    "slug": "morgan-stebbins",
+    "name": "Morgan Stebbins",
+    "professional_title": "Supervising Analyst, Jungian Psychoanalytic Association in New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "peter-malinowski": {
+    "slug": "peter-malinowski",
+    "name": "Peter Malinowski",
+    "professional_title": "Senior Lecturer in Psychology and Cognitive Neuroscience, Liverpool John Moores University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "francis-lee": {
+    "slug": "francis-lee",
+    "name": "Francis Lee",
+    "professional_title": "Mortimer D. Sackler Professor & Vice Chair for Research, Department of Psychiatry, Weill-Cornell Medical College",
+    "has_papers": true,
+    "papers_text": "Treating the Developing versus Developed Brain: Translating Preclinical Mouse and Human Studies"
+  },
+  "yi-yuan-tang": {
+    "slug": "yi-yuan-tang",
+    "name": "Yi-Yuan Tang",
+    "professional_title": "Professor of Psychological Sciences, Texas Tech University",
+    "has_papers": true,
+    "papers_text": "The neuroscience of mindfulness meditation"
+  },
+  "sara-lazar": {
+    "slug": "sara-lazar",
+    "name": "Sara Lazar",
+    "professional_title": "Assistant Professor in Psychology, Harvard Medical School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-dahlman": {
+    "slug": "james-dahlman",
+    "name": "James Dahlman",
+    "professional_title": "Assistant Professor of Biomedical Engineering, Georgia Tech",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "koshin-paley-ellison": {
+    "slug": "koshin-paley-ellison",
+    "name": "Koshin Paley Ellison",
+    "professional_title": "Co-Founder of the New York Zen Center for Contemplative Care",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "martin-conway": {
+    "slug": "martin-conway",
+    "name": "Martin Conway",
+    "professional_title": "Professor of Cognitive Psychology, City University London",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "megan-abbott": {
+    "slug": "megan-abbott",
+    "name": "Megan Abbott",
+    "professional_title": "Author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "carol-rovane": {
+    "slug": "carol-rovane",
+    "name": "Carol Rovane",
+    "professional_title": "Professor of Philosophy, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-turner": {
+    "slug": "michael-turner",
+    "name": "Michael S. Turner",
+    "professional_title": "Bruce V. and Diana M. Rauner Distinguished Service Professor of Physics, the University of Chicago",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "susan-wolfson": {
+    "slug": "susan-wolfson",
+    "name": "Susan Wolfson",
+    "professional_title": "Professor of English, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "bella-brodzki": {
+    "slug": "bella-brodzki",
+    "name": "Bella Brodzki",
+    "professional_title": "Professor of Comparative Literature, Sarah Lawrence",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "darrin-mcmahon": {
+    "slug": "darrin-mcmahon",
+    "name": "Darrin McMahon",
+    "professional_title": "Mary Brinsmead Wheelock Professor of History, Dartmouth College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-bellos": {
+    "slug": "david-bellos",
+    "name": "David Bellos",
+    "professional_title": "Professor of French and Comparative Literature, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "suzanne-jill-levine": {
+    "slug": "suzanne-jill-levine",
+    "name": "Suzanne Jill Levine",
+    "professional_title": "Director of Translation Studies, the University of California, Santa Barbara",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elliot-wolfson": {
+    "slug": "elliot-wolfson",
+    "name": "Elliot Wolfson",
+    "professional_title": "Marsha and Jay Glazer Chair Endowed Chair in Jewish Studies, the University of California, Santa Barbara",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michelle-woods": {
+    "slug": "michelle-woods",
+    "name": "Michelle Woods",
+    "professional_title": "Associate Professor of English, SUNY New Paltz",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sven-bernecker": {
+    "slug": "sven-bernecker",
+    "name": "Sven Bernecker",
+    "professional_title": "Professor of Philosophy, the University of California, Irvine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "penelope-lewis": {
+    "slug": "penelope-lewis",
+    "name": "Penelope Lewis",
+    "professional_title": "Senior Lecturer of Neuroscience, University of Manchester",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "fei-li": {
+    "slug": "fei-li",
+    "name": "Fei Li",
+    "professional_title": "Assistant Professor of Biology, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jessica-tyler": {
+    "slug": "jessica-tyler",
+    "name": "Jessica Tyler",
+    "professional_title": "Professor, Department of Epigenetics and Molecular Carcinogenesis, The University of Texas MD Anderson Cancer Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joanne-ruthsatz": {
+    "slug": "joanne-ruthsatz",
+    "name": "Joanne Ruthsatz",
+    "professional_title": "Assistant Professor of Psychology, The Ohio State University, Mansfield",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "frances-champagne": {
+    "slug": "frances-champagne",
+    "name": "Frances Champagne",
+    "professional_title": "Associate Professorof Psychology, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "zachary-kaminsky": {
+    "slug": "zachary-kaminsky",
+    "name": "Zachary Kaminsky",
+    "professional_title": "Assistant Professor in the Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dean-keith-simonton": {
+    "slug": "dean-keith-simonton",
+    "name": "Dean Keith Simonton",
+    "professional_title": "Distinguished Professor of Psychology at the University of California, Davis",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ryan-tellalian": {
+    "slug": "ryan-tellalian",
+    "name": "Ryan Tellalian",
+    "professional_title": "Ph.D. Candidate in Clinical Psychology, The New School for Social Research",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "steve-hsu": {
+    "slug": "steve-hsu",
+    "name": "Steve Hsu",
+    "professional_title": "Vice-President for Research and Professor of Theoretical Physics at Michigan State University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "theodore-dimon": {
+    "slug": "theodore-dimon",
+    "name": "Theodore Dimon",
+    "professional_title": "Director of The Dimon Institute; adjunct assistant professor, Columbia Teachers College.",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "rex-jung": {
+    "slug": "rex-jung",
+    "name": "Rex Jung",
+    "professional_title": "Assistant Professor of Neurosurgery at the University of New Mexico",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "adam-j-sacks": {
+    "slug": "adam-j-sacks",
+    "name": "Adam J. Sacks",
+    "professional_title": "Ph.D. Candidate in History, Brown University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alexandra-horowitz": {
+    "slug": "alexandra-horowitz",
+    "name": "Alexandra Horowitz",
+    "professional_title": "Professor of Psychology, Barnard College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "irene-pepperberg": {
+    "slug": "irene-pepperberg",
+    "name": "Irene Pepperberg",
+    "professional_title": "Research Associate, Harvard University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "eva-weil": {
+    "slug": "eva-weil",
+    "name": "Eva Weil",
+    "professional_title": "Psychoanalyst, Researcher at the Sorbonne and University Paris I",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gottfried-wagner": {
+    "slug": "gottfried-wagner",
+    "name": "Gottfried Wagner",
+    "professional_title": "Multimedia Director and Publisher",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "phil-zabriskie": {
+    "slug": "phil-zabriskie",
+    "name": "Phil Zabriskie",
+    "professional_title": "Author and Journalist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "luis-cabral": {
+    "slug": "luis-cabral",
+    "name": "Luis Cabral",
+    "professional_title": "Paganelli-Bull Professor of Economics and International Business, Stern School of Business, NYU",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "kenneth-t-kishida": {
+    "slug": "kenneth-t-kishida",
+    "name": "Kenneth T. Kishida",
+    "professional_title": "Research Scientist, Computational Psychiatry Unit, Virginia Tech Carilion Research Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-zelinsky": {
+    "slug": "paul-zelinsky",
+    "name": "Paul Zelinsky",
+    "professional_title": "Children\u2019s book illustrator and author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "brigitte-kahl": {
+    "slug": "brigitte-kahl",
+    "name": "Brigitte Kahl",
+    "professional_title": "Professor of New Testament, Union Theological Seminary in New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "regina-pally": {
+    "slug": "regina-pally",
+    "name": "Regina Pally",
+    "professional_title": "Co-Founder and Assistant Director, Center for Reflective Parenting",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "simon-kochen": {
+    "slug": "simon-kochen",
+    "name": "Simon Kochen",
+    "professional_title": "Professor emeritus and Senior Research Scientist, Mathematics Department, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "marie-howe": {
+    "slug": "marie-howe",
+    "name": "Marie Howe",
+    "professional_title": "2012-2014 Poet Laureate of New York State",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "patricia-bauer": {
+    "slug": "patricia-bauer",
+    "name": "Patricia Bauer",
+    "professional_title": "Asa Griggs Candler Professor of Psychology, Emory University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "steven-wein": {
+    "slug": "steven-wein",
+    "name": "Steven Wein",
+    "professional_title": "Supervising Child and Adolescent Analyst, New York Psychoanalytic Society and Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "colin-phillips": {
+    "slug": "colin-phillips",
+    "name": "Colin Phillips",
+    "professional_title": "Professor of Linguistics & Distinguished Scholar-Teacher, University of Maryland; Director, Maryland Language Science Center; Associate Director, Neuroscience and Cognitive Science Program",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-harris-2": {
+    "slug": "paul-harris-2",
+    "name": "Paul Harris",
+    "professional_title": "Victor S. Thomas Professor of Education, Harvard",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "akeel-bilgrami": {
+    "slug": "akeel-bilgrami",
+    "name": "Akeel Bilgrami",
+    "professional_title": "Sidney Morgenbesser Professor of Philosophy, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-browde": {
+    "slug": "paul-browde",
+    "name": "Paul Browde",
+    "professional_title": "Psychiatrist, teaching faculty in the Department of Narrative Medicine, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-levinson": {
+    "slug": "mark-levinson",
+    "name": "Mark Levinson",
+    "professional_title": "Director of Particle Fever",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gabrielle-jackson": {
+    "slug": "gabrielle-jackson",
+    "name": "Gabrielle Jackson",
+    "professional_title": "Assistant Professor of Philosophy, Stony Brook University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sarah-demers": {
+    "slug": "sarah-demers",
+    "name": "Sarah Demers",
+    "professional_title": "Horace D. Taft Associate Professor of Physics, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-judd": {
+    "slug": "james-judd",
+    "name": "James Judd",
+    "professional_title": "Conductor, Music Director of the Israel Symphony and the Little Orchestra Society",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ken-paller": {
+    "slug": "ken-paller",
+    "name": "Ken Paller",
+    "professional_title": "Professor of Psychology; Director of the Cognitive Neuroscience Program, Northwestern University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "karl-friston": {
+    "slug": "karl-friston",
+    "name": "Karl Friston",
+    "professional_title": "Professor at the Institute of Neurology, University College London",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jean-strouse": {
+    "slug": "jean-strouse",
+    "name": "Jean Strouse",
+    "professional_title": "Historian and Biographer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nicholas-schiff": {
+    "slug": "nicholas-schiff",
+    "name": "Nicholas Schiff",
+    "professional_title": "Director of the Laboratory for Cognitive Neuromodulation at Weill Cornell Medical College; Professor of Neuroscience, Neurology, and Public Health",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alberto-manguel": {
+    "slug": "alberto-manguel",
+    "name": "Alberto Manguel",
+    "professional_title": "Writer and translator",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nacho-arimany": {
+    "slug": "nacho-arimany",
+    "name": "Nacho Arimany",
+    "professional_title": "Ethnic percussionist, Composer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "vijay-iyer": {
+    "slug": "vijay-iyer",
+    "name": "Vijay Iyer",
+    "professional_title": "Composer & Pianist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alan-richardson": {
+    "slug": "alan-richardson",
+    "name": "Alan Richardson",
+    "professional_title": "Professor of English, Boston College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sandra-shapshay": {
+    "slug": "sandra-shapshay",
+    "name": "Sandra Shapshay",
+    "professional_title": "Associate Professor of Philosophy, Indiana University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "piet-hut": {
+    "slug": "piet-hut",
+    "name": "Piet Hut",
+    "professional_title": "Professor of Interdisciplinary Studies, Institute for Advanced Study",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "zosia-krusberg": {
+    "slug": "zosia-krusberg",
+    "name": "Zosia Krusberg",
+    "professional_title": "Visiting Assistant Professor of Physics and Astronomy, Vassar College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-fry": {
+    "slug": "paul-fry",
+    "name": "Paul Fry",
+    "professional_title": "William Lampson Professor of English, Emeritus, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tom-carew": {
+    "slug": "tom-carew",
+    "name": "Tom Carew",
+    "professional_title": "Professor of Neuroscience, NYU Center for Neural Science",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "martin-hagglund": {
+    "slug": "martin-hagglund",
+    "name": "Martin H\u00e4gglund",
+    "professional_title": "Professor of Comparative Literature and Humanities, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "raul-rabadan": {
+    "slug": "raul-rabadan",
+    "name": "Raul Rabadan",
+    "professional_title": "Associate Professor in the Departments of Systems Biology and Biomedical Informatics, Columbia University College of Physicians and Surgeons",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "polly-young-eisendrath": {
+    "slug": "polly-young-eisendrath",
+    "name": "Polly Young-Eisendrath",
+    "professional_title": "Psychologist, Jungian Psychoanalyst",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "charles-liu": {
+    "slug": "charles-liu",
+    "name": "Charles Liu",
+    "professional_title": "Professor of Astrophysics, City University of New York\u2019s College of Staten Island",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "caleb-scharf": {
+    "slug": "caleb-scharf",
+    "name": "Caleb Scharf",
+    "professional_title": "Director of Astrobiology, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-polizzotti": {
+    "slug": "mark-polizzotti",
+    "name": "Mark Polizzotti",
+    "professional_title": "Author & TranslatorDirector of the Publications Program, The Metropolitan Museum of Art",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "anne-marie-levine": {
+    "slug": "anne-marie-levine",
+    "name": "Anne-Marie Levine",
+    "professional_title": "Poet and Visual Artist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "bill-zavatsky": {
+    "slug": "bill-zavatsky",
+    "name": "Bill Zavatsky",
+    "professional_title": "Poet",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mary-ann-caws": {
+    "slug": "mary-ann-caws",
+    "name": "Mary Ann Caws",
+    "professional_title": "Distinguished Professor of English, French, and Comparative Literature at the Graduate Center of the City University of New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "adam-kirsch": {
+    "slug": "adam-kirsch",
+    "name": "Adam Kirsch",
+    "professional_title": "Senior Editor at The New Republic",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alfred-scharff-goldhaber": {
+    "slug": "alfred-scharff-goldhaber",
+    "name": "Alfred Scharff Goldhaber",
+    "professional_title": "Professor in the C.N. Yang Institute for Theoretical Physics and the Department of Physics and Astronomy at Stony Brook University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "hans-guido-wendel": {
+    "slug": "hans-guido-wendel",
+    "name": "Hans-Guido Wendel",
+    "professional_title": "Principal Investigator at the Cancer Genetics Laboratory at Memorial Sloan-Kettering Cancer Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "selina-chen-kiang": {
+    "slug": "selina-chen-kiang",
+    "name": "Selina Chen-Kiang",
+    "professional_title": "Professor of Pathology and Professor of Immunology and Microbial Pathogenesis at Weill-Cornell Medical College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-alford": {
+    "slug": "mark-alford",
+    "name": "Mark Alford",
+    "professional_title": "Professor of Physics, Washington University in Saint Louis",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "eric-steinhart": {
+    "slug": "eric-steinhart",
+    "name": "Eric Steinhart",
+    "professional_title": "Professor of Philosophy at William Paterson University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "susan-lutgendorf": {
+    "slug": "susan-lutgendorf",
+    "name": "Susan Lutgendorf",
+    "professional_title": "Professor in the Departments of Psychology, Obstetrics and Gynecology, and Urology, member of the Holden Comprehensive Cancer Center at the University of Iowa.",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sheldon-solomon": {
+    "slug": "sheldon-solomon",
+    "name": "Sheldon Solomon",
+    "professional_title": "Professor of Psychology and Ross Professor of Interdisciplinary Studies, Skidmore College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "timothy-oconnor": {
+    "slug": "timothy-oconnor",
+    "name": "Timothy O&#8217;Connor",
+    "professional_title": "Professor of Philosophy, Indiana University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dorothea-von-mucke": {
+    "slug": "dorothea-von-mucke",
+    "name": "Dorothea von M\u00fccke",
+    "professional_title": "Professor of Germanic Languages and Literatures, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joel-hamkins": {
+    "slug": "joel-hamkins",
+    "name": "Joel David Hamkins",
+    "professional_title": "Professor of Mathematics, Philosophy and Computer Science at the City University of New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jean-luc-le-du": {
+    "slug": "jean-luc-le-du",
+    "name": "Jean-Luc Le D\u00fb",
+    "professional_title": "Sommelier",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-mitton": {
+    "slug": "mark-mitton",
+    "name": "Mark Mitton",
+    "professional_title": "Magician",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jean-valentine-3": {
+    "slug": "jean-valentine-3",
+    "name": "Jean Valentine",
+    "professional_title": "Poet",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joseph-kohn": {
+    "slug": "joseph-kohn",
+    "name": "Joseph Kohn",
+    "professional_title": "Professor Emeritus of Mathematics, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nancy-ditomaso": {
+    "slug": "nancy-ditomaso",
+    "name": "Nancy DiTomaso",
+    "professional_title": "Vice Dean for Faculty and Research, and Professor of Management and Global Business, Rutgers University Business School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "patricia-taylor": {
+    "slug": "patricia-taylor",
+    "name": "Patricia Taylor",
+    "professional_title": "Chair of the Women\u2019s International Advisory Council of International House",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "patrick-rosal": {
+    "slug": "patrick-rosal",
+    "name": "Patrick Rosal",
+    "professional_title": "Poet",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "marit-delozier": {
+    "slug": "marit-delozier",
+    "name": "Marit Delozier",
+    "professional_title": "Lawyer and Assistant District Attorney, New York city.",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ernesto-rubin": {
+    "slug": "ernesto-rubin",
+    "name": "Ernesto Reuben",
+    "professional_title": "Assistant Professor of Management, Columbia Business School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tal-rabin": {
+    "slug": "tal-rabin",
+    "name": "Tal Rabin",
+    "professional_title": "Research Staff Member and Manager of Cryptographic Research Group, IBM T.J.Watson Research Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "liz-phelps": {
+    "slug": "liz-phelps",
+    "name": "Liz Phelps",
+    "professional_title": "Julius Silver Professor of Psychology and Neural Science, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "priyamvada-natarajan": {
+    "slug": "priyamvada-natarajan",
+    "name": "Priyamvada Natarajan",
+    "professional_title": "Professor of Astronomy and of Physics, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "anna-ziegler": {
+    "slug": "anna-ziegler",
+    "name": "Anna Ziegler",
+    "professional_title": "Playwright",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "harald-atmanspacher": {
+    "slug": "harald-atmanspacher",
+    "name": "Harald Atmanspacher",
+    "professional_title": "Physicist, The Collegium Helveticum (ETH Zurich, Switzerland)",
+    "has_papers": true,
+    "papers_text": "Relative Onticity \u2013 Harald Atmanspacher and Frederick Kronz"
+  },
+  "joseph-cambray": {
+    "slug": "joseph-cambray",
+    "name": "Joseph Cambray",
+    "professional_title": "Jungian Analyst; past President of the International Association of Analytical Psychology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "farzad-mahootian": {
+    "slug": "farzad-mahootian",
+    "name": "Farzad Mahootian",
+    "professional_title": "Faculty of Liberal Studies, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "beverley-zabriskie": {
+    "slug": "beverley-zabriskie",
+    "name": "Beverley Zabriskie",
+    "professional_title": "Jungian Analyst, a founding faculty member and past President of New York\u2019s Jungian Psychoanalytic Association",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "liah-greenfeld": {
+    "slug": "liah-greenfeld",
+    "name": "Liah Greenfeld",
+    "professional_title": "University Professor and Professor of Sociology, Political Science, and Anthropology, Boston University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elise-giuliano": {
+    "slug": "elise-giuliano",
+    "name": "Elise Giuliano",
+    "professional_title": "Lecturer in Political Science at Columbia University and Columbia\u2019s Harriman Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "chip-gagnon": {
+    "slug": "chip-gagnon",
+    "name": "Chip Gagnon",
+    "professional_title": "Associate Professor of Politics at Ithaca College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gary-marcus": {
+    "slug": "gary-marcus",
+    "name": "Gary Marcus",
+    "professional_title": "Professor of Psychology, New York University, and Director, NYU Center for Language and Music",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "matthew-stone": {
+    "slug": "matthew-stone",
+    "name": "Matthew Stone",
+    "professional_title": "Associate Professor, Department of Computer Science, Rutgers University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-rosenthal": {
+    "slug": "david-rosenthal",
+    "name": "David Rosenthal",
+    "professional_title": "Professor of Philosophy and Coordinator of the Interdisciplinary Concentration in Cognitive Science, CUNY Graduate Center",
+    "has_papers": true,
+    "papers_text": "Explaining Consciousness (2002)Consciousness and its function (2008)"
+  },
+  "leora-kahn": {
+    "slug": "leora-kahn",
+    "name": "Leora Kahn",
+    "professional_title": "Founder and president of PROOF: Media for Social Justice",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-krakauer": {
+    "slug": "john-krakauer",
+    "name": "John Krakauer",
+    "professional_title": "Professor of Neurology and Neuroscience, Johns Hopkins University School of Medicine, Director of BLAM Lab, Co-founder of the KATA project",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "theodore-shapiro": {
+    "slug": "theodore-shapiro",
+    "name": "Theodore Shapiro",
+    "professional_title": "Professor Emeritus, Weill-Cornell Medical College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "nathan-m-szajnberg": {
+    "slug": "nathan-m-szajnberg",
+    "name": "Nathan M. Szajnberg",
+    "professional_title": "Wallerstein Research Fellow in Psychoanalysis, San Francisco Center for Psychoanalysis",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ellen-handler-spitz": {
+    "slug": "ellen-handler-spitz",
+    "name": "Ellen Handler Spitz",
+    "professional_title": "Honors College Professor of Visual Arts at the University of Maryland (UMBC)",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "xiao-jing-wang": {
+    "slug": "xiao-jing-wang",
+    "name": "Xiao-Jing Wang",
+    "professional_title": "Professor of Neurobiology, Adjunct Professor of Physics, Applied Mathematics and Psychology and Director, Swartz Program in Theoretical Neuroscience, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-j-steinhardt": {
+    "slug": "paul-j-steinhardt",
+    "name": "Paul J. Steinhardt",
+    "professional_title": "Albert Einstein Professor in Science and Director, Princeton Center for Theoretical Science, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "maxine-sheets-johnstone": {
+    "slug": "maxine-sheets-johnstone",
+    "name": "Maxine Sheets-Johnstone",
+    "professional_title": "Courtesy Professor of Philosophy, University of Oregon",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "sean-singer": {
+    "slug": "sean-singer",
+    "name": "Sean Singer",
+    "professional_title": "Poet",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joseph-salerno": {
+    "slug": "joseph-salerno",
+    "name": "Joseph Salerno",
+    "professional_title": "Professor of Economics, Lubin School of Business, Pace University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "george-reeke-jr": {
+    "slug": "george-reeke-jr",
+    "name": "George Reeke, Jr.",
+    "professional_title": "Associate Professor & Head, Laboratory of Biological Modeling, The Rockefeller University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "diana-reiss": {
+    "slug": "diana-reiss",
+    "name": "Diana Reiss",
+    "professional_title": "Professor of Psychology, Hunter College; Professor of Biopsychology & Behavioral Neuroscience, The Graduate Center, CUNY",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-rampino": {
+    "slug": "michael-rampino",
+    "name": "Michael Rampino",
+    "professional_title": "Professor of Biology, Earth & Environmental Studies, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-a-norell": {
+    "slug": "mark-a-norell",
+    "name": "Mark A. Norell",
+    "professional_title": "Chairman of the Department of Paleontology, American Museum of Natural History",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jeffrey-miron": {
+    "slug": "jeffrey-miron",
+    "name": "Jeffrey Miron",
+    "professional_title": "Senior Lecturer and Director of Undergraduate Studies, Department of Economics, Harvard University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lewis-porter": {
+    "slug": "lewis-porter",
+    "name": "Lewis Porter",
+    "professional_title": "Professor of Music, Rutgers University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ken-miller": {
+    "slug": "ken-miller",
+    "name": "Kenneth Miller",
+    "professional_title": "Professor of Neuroscience, Department of Physiology and Director, Center for Theoretical Biology, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "tim-maudlin": {
+    "slug": "tim-maudlin",
+    "name": "Tim Maudlin",
+    "professional_title": "Professor of Philosophy, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "e-james-lieberman": {
+    "slug": "e-james-lieberman",
+    "name": "E. James Lieberman",
+    "professional_title": "Clinical Professor of Psychiatry, Emeritus, George Washington University School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joseph-j-kohn": {
+    "slug": "joseph-j-kohn",
+    "name": "Joseph J. Kohn",
+    "professional_title": "Professor Emeritus of Mathematics, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "william-koblener": {
+    "slug": "william-koblener",
+    "name": "William Koblener",
+    "professional_title": "Associate Professor, Bar-Ilan University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "j-a-scott-kelso": {
+    "slug": "j-a-scott-kelso",
+    "name": "J. A. Scott Kelso",
+    "professional_title": "Glenwood and Martha Creech Chair in Science, Florida Atlantic University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "albert-a-johnstone": {
+    "slug": "albert-a-johnstone",
+    "name": "Albert A. Johnstone",
+    "professional_title": "Courtesy Professor of Philosophy, University of Oregon",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jesus-ilundain-agurruza": {
+    "slug": "jesus-ilundain-agurruza",
+    "name": "Jes\u00fas Ilund\u00e1in-Agurruza",
+    "professional_title": "Associate Professor of Philosophy, Linfield College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "chris-impey": {
+    "slug": "chris-impey",
+    "name": "Chris Impey",
+    "professional_title": "University Distinguished Professor, Astronomy, University of Arizona",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "john-horgan": {
+    "slug": "john-horgan",
+    "name": "John Horgan",
+    "professional_title": "Science Journalist; Director of the Center for Science Writings, Stevens Institute of Technology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-higham": {
+    "slug": "james-higham",
+    "name": "James Higham",
+    "professional_title": "Assistant Professor of Biological Anthropology, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-l-fuller": {
+    "slug": "james-l-fuller",
+    "name": "James L. Fuller",
+    "professional_title": "Research Fellow, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "robert-h-frank": {
+    "slug": "robert-h-frank",
+    "name": "Robert H. Frank",
+    "professional_title": "Henrietta Johnson Louis Professor of Management and Professor of Economics, Cornell University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "r-brian-ferguson": {
+    "slug": "r-brian-ferguson",
+    "name": "R. Brian Ferguson",
+    "professional_title": "Professor of Anthropology, Rutgers University-Newark",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "g-bard-ermentrout": {
+    "slug": "g-bard-ermentrout",
+    "name": "G. Bard Ermentrout",
+    "professional_title": "Distinguished University Professor of Computational Biology and Professor of Mathematics, University of Pittsburgh",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ray-dougherty": {
+    "slug": "ray-dougherty",
+    "name": "Ray Dougherty",
+    "professional_title": "Associate Professor of Linguistics, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "christopher-w-clark": {
+    "slug": "christopher-w-clark",
+    "name": "Christopher W. Clark",
+    "professional_title": "Imogene P. Johnson Director of the Bioacoustics Research Program, Cornell University Lab of Ornithology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "james-berger": {
+    "slug": "james-berger",
+    "name": "James Berger",
+    "professional_title": "Senior Lecturer in American Studies and English, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "saeed-tavazoie": {
+    "slug": "saeed-tavazoie",
+    "name": "Saeed Tavazoie",
+    "professional_title": "Professor of Biochemistry, Molecular Biophysics, and Systems Biology, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-waldholz": {
+    "slug": "michael-waldholz",
+    "name": "Michael Waldholz",
+    "professional_title": "Medical Science Writer and Media Consultant",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "christopher-wood": {
+    "slug": "christopher-wood",
+    "name": "Christopher Wood",
+    "professional_title": "Carnegie Professor, History of Art, Yale University; Visiting Professor, Department of German, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "wynn-schwartz": {
+    "slug": "wynn-schwartz",
+    "name": "Wynn Schwartz",
+    "professional_title": "Clinical psychologist and research psychoanalyst, The Massachusetts School of Professional Psychology",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lloyd-schwartz": {
+    "slug": "lloyd-schwartz",
+    "name": "Lloyd Schwartz",
+    "professional_title": "Frederick S. Troy Professor of English, University of Massachusetts, Boston",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dan-slater": {
+    "slug": "dan-slater",
+    "name": "Dan Slater",
+    "professional_title": "Journalist, Author",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "fred-sander": {
+    "slug": "fred-sander",
+    "name": "Fred Sander",
+    "professional_title": "Associate Clinical Professor of Psychiatry, Weill Cornell Department of Psychiatry",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "gilbert-rose": {
+    "slug": "gilbert-rose",
+    "name": "Gilbert Rose",
+    "professional_title": "Member of the Muriel Gardiner Program in Psychoanalysis and the Humanities, Yale University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alina-rubinstein": {
+    "slug": "alina-rubinstein",
+    "name": "Alina Rubinstein",
+    "professional_title": "Clinical Instructor, Department of Psychiatry, NYU School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "louis-rose": {
+    "slug": "louis-rose",
+    "name": "Louis Rose",
+    "professional_title": "Professor of Modern European History, Otterbein University; Editor, American Imago",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "dorothea-rockburne": {
+    "slug": "dorothea-rockburne",
+    "name": "Dorothea Rockburne",
+    "professional_title": "Artist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "francois-quiviger": {
+    "slug": "francois-quiviger",
+    "name": "Fran\u00e7ois Quiviger",
+    "professional_title": "Curator of Digital Resources, Assistant Librarian, Warburg Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alice-quinn": {
+    "slug": "alice-quinn",
+    "name": "Alice Quinn",
+    "professional_title": "Executive Director, Poetry Society of America",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "frances-pritchett": {
+    "slug": "frances-pritchett",
+    "name": "Frances Pritchett",
+    "professional_title": "Professor of Modern Indic Languages in the Department of Middle Eastern, South Asian, and African Studies, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrea-pinotti": {
+    "slug": "andrea-pinotti",
+    "name": "Andrea Pinotti",
+    "professional_title": "Professor of Aesthetics, Department of Philosophy, University of Milan",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "spyros-papapetros": {
+    "slug": "spyros-papapetros",
+    "name": "Spyros Papapetros",
+    "professional_title": "Associate Professor of Art and Architectural Theory and Historiography, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "robert-penzer": {
+    "slug": "robert-penzer",
+    "name": "Robert Penzer",
+    "professional_title": "Clinical Assistant Professor of Psychiatry, Weill-Cornell Medical College; Faculty, New York Psychoanalytic Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "edward-nersessian": {
+    "slug": "edward-nersessian",
+    "name": "Edward Nersessian",
+    "professional_title": "Director, The Helix CenterClinical Professor of Psychiatry, Weill-Cornell Medical CollegeTraining & Supervising Psychoanalyst, New York Psychoanalytic Institute",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mustafa-menai": {
+    "slug": "mustafa-menai",
+    "name": "Mustafa Menai",
+    "professional_title": "Lecturer of Urdu in the South Asia Studies Department, University of Pennsylvania",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "christopher-mason": {
+    "slug": "christopher-mason",
+    "name": "Christopher Mason",
+    "professional_title": "Assistant Professor in Physiology and Biophysics, Institute for Computational Biology, Weill Cornell Medical College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ludovica-lumer": {
+    "slug": "ludovica-lumer",
+    "name": "Ludovica Lumer",
+    "professional_title": "Faculty, Department of Psychology, Universit\u00e0 degli Studi Milano-Bicocca",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "pierre-magistretti": {
+    "slug": "pierre-magistretti",
+    "name": "Pierre Magistretti",
+    "professional_title": "President, Agalma Foundation; Professor, Brain Mind Institute and Professor, Center for Psychiatric Neuroscience, University of Lausanne Medical School",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "peter-loewenberg": {
+    "slug": "peter-loewenberg",
+    "name": "Peter Loewenberg",
+    "professional_title": "Professor Emeritus of Modern European Cultural and Intellectual History and Political Psychology, UCLA",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alan-leslie": {
+    "slug": "alan-leslie",
+    "name": "Alan Leslie",
+    "professional_title": "Professor of Psychology and Cognitive Science, Rutgers University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-lichtenstein": {
+    "slug": "david-lichtenstein",
+    "name": "David Lichtenstein",
+    "professional_title": "Co-Founder, Apres-Coup Psychoanalytic Association, New York, NY",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "marina-korsakova-kreyn": {
+    "slug": "marina-korsakova-kreyn",
+    "name": "Marina Korsakova-Kreyn",
+    "professional_title": "",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "joseph-ledoux": {
+    "slug": "joseph-ledoux",
+    "name": "Joseph LeDoux",
+    "professional_title": "Professor of Neural Science, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "linda-keen": {
+    "slug": "linda-keen",
+    "name": "Linda Keen",
+    "professional_title": "Professor of Mathematics, Graduate Center and Lehman College of the City University of New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-klein": {
+    "slug": "michael-klein",
+    "name": "Michael Klein",
+    "professional_title": "Poet, Essayist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "thomas-dacosta-kaufmann": {
+    "slug": "thomas-dacosta-kaufmann",
+    "name": "Thomas DaCosta Kaufmann",
+    "professional_title": "Frederick Marquand Professor of Art and Archaeology, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "christopher-johnson": {
+    "slug": "christopher-johnson",
+    "name": "Christopher Johnson",
+    "professional_title": "Visiting Associate Professor, Department of Spanish & Portuguese, UCLA",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "siri-hustvedt": {
+    "slug": "siri-hustvedt",
+    "name": "Siri Hustvedt",
+    "professional_title": "Author, Essayist",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alan-hirshfeld": {
+    "slug": "alan-hirshfeld",
+    "name": "Alan Hirshfeld",
+    "professional_title": "Professor of Physics, University of MassachusettsDartmouth",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "michael-hecht": {
+    "slug": "michael-hecht",
+    "name": "Michael Hecht",
+    "professional_title": "Professor of Chemistry, Princeton University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jesse-harris": {
+    "slug": "jesse-harris",
+    "name": "Jesse Harris",
+    "professional_title": "Songwriter/Singer/Producer",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "elizabeth-haase": {
+    "slug": "elizabeth-haase",
+    "name": "Elizabeth Haase",
+    "professional_title": "Assistant Clinical Professor, Columbia Presbyterian Medical Center",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "paul-glimcher": {
+    "slug": "paul-glimcher",
+    "name": "Paul Glimcher",
+    "professional_title": "Director of the Center for Neuroeconomics, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "vittorio-gallese": {
+    "slug": "vittorio-gallese",
+    "name": "Vittorio Gallese",
+    "professional_title": "Professor of Psychobiology, University of ParmaDirector, Lab of Social Cognitive Neuroscience, University of Parma",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "david-freedberg": {
+    "slug": "david-freedberg",
+    "name": "David Freedberg",
+    "professional_title": "Professor of Art History and Director of Italian Academy for Advanced Studies in America, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "mark-fishman": {
+    "slug": "mark-fishman",
+    "name": "Mark Fishman",
+    "professional_title": "President of Novartis Institutes for BioMedical Research, Novartis",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "stuart-firestein": {
+    "slug": "stuart-firestein",
+    "name": "Stuart Firestein",
+    "professional_title": "Professor of Neuroscience. Columbia UniversityFormer Chair of Department of Biological Sciences, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "susan-engel": {
+    "slug": "susan-engel",
+    "name": "Susan Engel",
+    "professional_title": "Senior Lecturer in Psychology and Director of the Program in Teaching, Williams College",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "georges-didi-huberman": {
+    "slug": "georges-didi-huberman",
+    "name": "Georges Didi-Huberman",
+    "professional_title": "Philosopher and Art Historian, Ecole des Hautes Etudes en Sciences Sociales",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "graciela-chichilnisky": {
+    "slug": "graciela-chichilnisky",
+    "name": "Graciela Chichilnisky",
+    "professional_title": "Professor of Economics, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "bonnie-costello": {
+    "slug": "bonnie-costello",
+    "name": "Bonnie Costello",
+    "professional_title": "Professor, Boston University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lisa-cataldo": {
+    "slug": "lisa-cataldo",
+    "name": "Lisa Cataldo",
+    "professional_title": "Assistant Professor of Pastoral Care and Counseling, Fordham University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "anjan-chatterjee": {
+    "slug": "anjan-chatterjee",
+    "name": "Anjan Chatterjee",
+    "professional_title": "Professor of Neurology, University of Pennsylvania",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrea-califano": {
+    "slug": "andrea-califano",
+    "name": "Andrea Califano",
+    "professional_title": "Clyde and Helen Wu Professor of Chemical and Systems Biology, Columbia University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "greg-calbi": {
+    "slug": "greg-calbi",
+    "name": "Greg Calbi",
+    "professional_title": "Senior Mastering Engineer, Sterling Sound, New York",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "stephanie-brown": {
+    "slug": "stephanie-brown",
+    "name": "Stephanie Brown",
+    "professional_title": "Associate Professor of Preventive Medicine , SUNY Stony Brook",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "lucy-l-brown": {
+    "slug": "lucy-l-brown",
+    "name": "Lucy L. Brown",
+    "professional_title": "Clinical Professor in Neurology, Einstein College of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "jack-z-bratich": {
+    "slug": "jack-z-bratich",
+    "name": "Jack Z. Bratich",
+    "professional_title": "Associate Professor and Chair, Department of Journalism and Media Studies, Rutgers University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "andrea-bayer": {
+    "slug": "andrea-bayer",
+    "name": "Andrea Bayer",
+    "professional_title": "Department of European Paintings, The Metropolitan Museum of Art",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "heather-berlin": {
+    "slug": "heather-berlin",
+    "name": "Heather Berlin",
+    "professional_title": "Assistant Professor of Psychiatry and Neuroscience, Mount Sinai School of Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "francois-ansermet": {
+    "slug": "francois-ansermet",
+    "name": "Fran\u00e7ois Ansermet",
+    "professional_title": "Vice President, Agalma Foundation; Chair, Department of Psychiatry, University of Geneva; Professor of Child and Adolescent Psychiatry, Children's Hospital of the University Hospitals of Geneva",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "cristina-alberini": {
+    "slug": "cristina-alberini",
+    "name": "Cristina Alberini",
+    "professional_title": "Professor in the Center for Neural Science, New York University",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "ted-jacobs": {
+    "slug": "ted-jacobs",
+    "name": "Ted Jacobs",
+    "professional_title": "Clinical Professor of Psychiatry Emeritus, Albert Einstein College of Medicine; Training and Supervising Psychoanalyst, New York Psychoanalytic Institute, New York University Psychoanalytic Institute, and Columbia Center for Psychoanalytic Medicine",
+    "has_papers": false,
+    "papers_text": ""
+  },
+  "alex-abdo": {
+    "slug": "alex-abdo",
+    "name": "Alex Abdo",
+    "professional_title": "Staff Attorney, American Civil Liberties Union National Security Project",
+    "has_papers": false,
+    "papers_text": ""
+  }
+}

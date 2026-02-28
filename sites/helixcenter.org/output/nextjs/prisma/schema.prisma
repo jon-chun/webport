@@ -1,0 +1,159 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Roundtable {
+  id              Int      @id @default(autoincrement())
+  wpId            Int      @unique
+  slug            String   @unique
+  title           String
+  content         String
+  excerpt         String   @default("")
+  publishedAt     DateTime
+  updatedAt       DateTime
+  dateRecorded    DateTime?
+  eventDatetime   String?  // "October 4th, 2025 at 2:00PM" (scraped from HTML)
+  eventStatus     String?  // "Past Event" or "Future Event"
+  audioFile       String?
+  audioDuration   String?
+  audioFilesize   String?
+  audioFilesizeRaw String? // Raw bytes as string
+  episodeType     String?
+  videoUrl        String?  // YouTube embed URL (scraped from HTML)
+  downloadLink    String?  // Podcast download URL
+  playerLink      String?  // Podcast player URL
+  ogDescription   String?  // Yoast OG description
+  ogImageUrl      String?  // Yoast OG image URL
+  canonicalUrl    String?  // Yoast canonical URL
+  status          String   @default("publish")
+  sourceUrl       String
+  featuredMediaId Int?
+
+  featuredImage  Media?                 @relation(fields: [featuredMediaId], references: [wpId])
+  participants   RoundtableParticipant[]
+  tags           RoundtableTag[]
+  seriesId       Int?
+  series         Series?                @relation(fields: [seriesId], references: [wpId])
+
+  @@index([slug])
+  @@index([publishedAt])
+  @@index([status])
+}
+
+model Participant {
+  id                Int    @id @default(autoincrement())
+  wpId              Int    @unique
+  slug              String @unique
+  name              String
+  professionalTitle String @default("")  // "Professor, Neuroscience, Icahn School of Medicine"
+  bio               String @default("")  // Full HTML biography
+  hasPapers         Boolean @default(false) // Has papers/presentations section
+  papersText        String @default("")  // Papers/presentations content
+  ogDescription     String @default("")  // Yoast OG description (truncated bio)
+  ogImageUrl        String @default("")  // Yoast OG image URL
+  sourceUrl         String
+  featuredMediaId   Int?
+
+  featuredImage Media?                 @relation(fields: [featuredMediaId], references: [wpId])
+  roundtables   RoundtableParticipant[]
+
+  @@index([slug])
+  @@index([name])
+}
+
+model RoundtableParticipant {
+  id             Int @id @default(autoincrement())
+  roundtableId   Int
+  participantId  Int
+
+  roundtable  Roundtable  @relation(fields: [roundtableId], references: [id])
+  participant Participant @relation(fields: [participantId], references: [id])
+
+  @@unique([roundtableId, participantId])
+  @@index([roundtableId])
+  @@index([participantId])
+}
+
+model Tag {
+  id          Int    @id @default(autoincrement())
+  wpId        Int    @unique
+  slug        String @unique
+  name        String
+
+  roundtables RoundtableTag[]
+
+  @@index([slug])
+}
+
+model RoundtableTag {
+  id           Int @id @default(autoincrement())
+  roundtableId Int
+  tagId        Int
+
+  roundtable Roundtable @relation(fields: [roundtableId], references: [id])
+  tag        Tag        @relation(fields: [tagId], references: [id])
+
+  @@unique([roundtableId, tagId])
+  @@index([roundtableId])
+  @@index([tagId])
+}
+
+model Series {
+  id          Int     @id @default(autoincrement())
+  wpId        Int     @unique
+  slug        String  @unique
+  name        String
+  description String  @default("")
+
+  roundtables Roundtable[]
+
+  @@index([slug])
+}
+
+model Page {
+  id        Int    @id @default(autoincrement())
+  wpId      Int    @unique
+  slug      String @unique
+  title     String
+  content   String
+  menuOrder Int    @default(0)
+  sourceUrl String
+  parentId  Int?
+
+  parent   Page?  @relation("PageHierarchy", fields: [parentId], references: [id])
+  children Page[] @relation("PageHierarchy")
+
+  @@index([slug])
+  @@index([parentId])
+}
+
+model Media {
+  id         Int     @id @default(autoincrement())
+  wpId       Int     @unique
+  sourceUrl  String
+  title      String  @default("")
+  altText    String  @default("")
+  caption    String  @default("")
+  mimeType   String  @default("")
+  width      Int?
+  height     Int?
+  filesize   Int?    // Size in bytes
+  // Image size variants stored as JSON string
+  sizes      String  @default("{}") // JSON: {thumbnail: {url, w, h}, medium: {...}, ...}
+
+  roundtables  Roundtable[]
+  participants Participant[]
+
+  @@index([wpId])
+}
+
+model SiteConfig {
+  id    Int    @id @default(autoincrement())
+  key   String @unique
+  value String
+}

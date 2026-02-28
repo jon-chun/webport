@@ -1,0 +1,36 @@
+{
+  "crawl_date": "2026-02-27T15:51:59.682127",
+  "base_url": "https://www.helixcenter.org",
+  "stats": {
+    "wp_roundtables": 135,
+    "wp_pages": 19,
+    "wp_categories": 1,
+    "wp_tags": 513,
+    "wp_media": 98,
+    "wp_participants": 519,
+    "html_participants": 11,
+    "menus": 0,
+    "roundtables_with_participants": 125,
+    "participants_with_roundtables": 510
+  },
+  "taxonomies": [
+    "category",
+    "post_tag",
+    "nav_menu",
+    "wp_pattern_category",
+    "series"
+  ],
+  "post_types_found": [
+    "oembed/1.0",
+    "titan-security/v1",
+    "ssp/v1",
+    "wordfence/v1",
+    "yoast/v1",
+    "mc4wp/v1",
+    "regenerate-thumbnails/v1",
+    "wp/v2",
+    "wp-site-health/v1",
+    "wp-block-editor/v1",
+    "wp-abilities/v1"
+  ]
+}

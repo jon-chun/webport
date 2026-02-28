@@ -1,0 +1,86 @@
+{
+  "navigation": [
+    {
+      "text": "The Helix Center",
+      "href": "https://www.helixcenter.org"
+    },
+    {
+      "text": "Roundtables",
+      "href": "/roundtables"
+    },
+    {
+      "text": "Participants",
+      "href": "/participants"
+    },
+    {
+      "text": "About",
+      "href": "#"
+    },
+    {
+      "text": "About",
+      "href": "https://www.helixcenter.org/about/"
+    },
+    {
+      "text": "Board of Directors",
+      "href": "https://www.helixcenter.org/about/board-of-directors/"
+    },
+    {
+      "text": "Executive Committee",
+      "href": "https://www.helixcenter.org/about/executive-committee/"
+    },
+    {
+      "text": "Contact",
+      "href": "/contact"
+    },
+    {
+      "text": "Donate",
+      "href": "/donate"
+    }
+  ],
+  "footer_links": [
+    {
+      "text": "",
+      "href": "http://www.facebook.com/TheHelixCenter"
+    },
+    {
+      "text": "",
+      "href": "https://twitter.com/thehelixcenter"
+    },
+    {
+      "text": "",
+      "href": "http://www.youtube.com/helixcenter"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/helixcenter/"
+    },
+    {
+      "text": "",
+      "href": "https://itunes.apple.com/us/podcast/the-helix-center/id1093679041"
+    },
+    {
+      "text": "",
+      "href": "/feed/rss2/?post_type=roundtable"
+    },
+    {
+      "text": "View Map",
+      "href": "/contact/"
+    }
+  ],
+  "page_hierarchy": {},
+  "content_types": [],
+  "design_elements": {
+    "colors": [],
+    "fonts": [],
+    "layout": null,
+    "stylesheets": [
+      "https://www.helixcenter.org/wp-content/plugins/bbpress/templates/default/css/bbpress.min.css?ver=2.6.14",
+      "https://www.helixcenter.org/wp-content/plugins/bbpressmoderation/style.css?ver=6.9.1",
+      "https://www.helixcenter.org/wp-content/themes/helixcenter_v2/vite-assets/dist/assets/main-BvU9DVZ-.css?ver=2024-06-14",
+      "https://www.helixcenter.org/wp-content/themes/helixcenter_v2/style.css?ver=2024-06-14",
+      "https://www.helixcenter.org/wp-content/themes/helixcenter_v2/css/helixcenter.css?ver=2024-06-14",
+      "https://www.helixcenter.org/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.5",
+      "https://www.helixcenter.org/wp-includes/blocks/paragraph/style.min.css?ver=6.9.1"
+    ]
+  }
+}

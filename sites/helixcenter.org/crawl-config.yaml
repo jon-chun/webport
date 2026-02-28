@@ -1,0 +1,170 @@
+# Crawl Configuration: The Helix Center
+# Template for multi-site reverse engineering with WebForge
+# Usage: python crawl_helix.py (currently uses hardcoded config; this file documents the settings)
+
+site:
+  domain: helixcenter.org
+  base_url: https://www.helixcenter.org
+  name: The Helix Center
+  ssl_verify: false  # Site has occasional cert issues
+
+output:
+  directory: sites/helixcenter.org/input
+  formats:
+    - json       # WordPress REST API data
+    - html       # Scraped HTML for relationships
+    - css        # Design reference stylesheets
+
+# WordPress REST API endpoints to crawl
+wordpress_api:
+  enabled: true
+  base: /wp-json/wp/v2
+
+  # Standard endpoints (paginated, 100 per page)
+  endpoints:
+    - path: /pages
+      output: wp_pages.json
+      embed: true
+
+    - path: /categories
+      output: wp_categories.json
+
+    - path: /tags
+      output: wp_tags.json
+
+    - path: /media
+      output: wp_media.json
+
+  # Custom post types (discovered via /wp-json/wp/v2/types)
+  custom_post_types:
+    - slug: roundtable
+      output: wp_posts.json
+      embed: true
+      description: "Roundtable discussions (primary content type, 135 items)"
+
+    - slug: participant
+      output: wp_participants.json
+      embed: true
+      description: "Roundtable participants/speakers (519 items)"
+
+    - slug: podcast
+      output: wp_podcasts.json
+      embed: true
+      description: "Legacy podcast CPT (9 items, largely redundant)"
+
+  # Additional discovery endpoints
+  discovery:
+    - path: /wp-json/
+      output: wp_site_info.json
+      description: "Full site info including namespaces"
+
+    - path: /wp-json/wp/v2/types
+      description: "Post type discovery"
+
+    - path: /wp-json/wp/v2/taxonomies
+      output: wp_taxonomies.json
+      description: "All registered taxonomies"
+
+  # Taxonomies found
+  taxonomies:
+    - slug: category
+      applies_to: [post]
+      hierarchical: true
+
+    - slug: post_tag
+      applies_to: [post, roundtable, participant, podcast]
+      hierarchical: false
+
+    - slug: series
+      applies_to: [roundtable, podcast]
+      hierarchical: true
+
+# HTML relationship scraping (critical: not available via API)
+relationship_scraping:
+  enabled: true
+  description: >
+    The roundtable-participant many-to-many relationship is stored via ACF/custom-meta
+    and is NOT exposed through the WordPress REST API. We must scrape individual
+    roundtable and participant pages to extract these links from rendered HTML.
+
+  roundtable_pages:
+    url_pattern: /roundtables/{slug}/
+    output: roundtable_participants.json
+    selectors:
+      container: "div.roundtable-participants"
+      item: "article.participant"
+      name: "h2.entry-title a"
+      link_pattern: "/participants/{slug}/"
+    fallback:
+      # If primary selectors fail, find all participant links in main content
+      container: "main, article"
+      link_pattern: "a[href*='/participants/']"
+      exclude_text:
+        - "read more! »"
+        - "View participant details"
+
+  participant_pages:
+    url_pattern: /participants/{slug}/
+    output: participant_roundtables.json
+    selectors:
+      container: "div.participant-roundtables"
+      item: "article.roundtable"
+      title: "h2.entry-title a"
+      link_pattern: "/roundtables/{slug}/"
+    fallback:
+      container: "main, article"
+      link_pattern: "a[href*='/roundtables/']"
+      exclude_text:
+        - "read more! »"
+        - "View roundtable details"
+
+# HTML key pages to crawl for structure analysis
+key_pages:
+  - path: /
+    description: "Homepage"
+  - path: /about/
+    description: "About page"
+  - path: /roundtables/
+    description: "Roundtable listing"
+  - path: /participants/
+    description: "Participant listing with A-Z filter"
+  - path: /contact/
+    description: "Contact page"
+
+# CSS download for design reference
+css_download:
+  enabled: true
+  output_directory: css/
+  include_inline: true  # Save inline <style> blocks if > 50 chars
+
+# Rate limiting
+rate_limiting:
+  delay_seconds: 0.5       # Delay between individual page scrapes
+  concurrency: 3            # Max concurrent requests for HTML scraping
+  batch_size_roundtables: 10  # Batch size for roundtable page scraping
+  batch_size_participants: 20 # Batch size for participant page scraping
+
+# Expected data summary (from last crawl: 2026-02-27)
+expected_counts:
+  roundtables: 135
+  participants: 519
+  pages: 19
+  tags: 513
+  media: 98
+  podcasts: 9
+  roundtables_with_participants: 125
+  participants_with_roundtables: 510
+  total_relationship_links: 690
+
+# Key data notes
+notes:
+  - "Roundtables ARE the podcasts: 127/135 have meta.audio_file with MP3 URLs"
+  - "Audio hosted at media.helixcenter.org/podcasts/audio/"
+  - "The 'podcast' CPT (9 items) is legacy and largely redundant"
+  - "Tags on roundtables are topic tags (empathy, neuroscience), NOT participant names"
+  - "10 roundtables have no participant data (upcoming or special events)"
+  - "9 participants have no roundtable data (board members or inactive)"
+  - "Page hierarchy: About is parent of Board of Directors, Executive Committee, Arts/Humanities, Music, Film, Digital"
+  - "Menus endpoint (/wp-json/menus/v1/menus) returns 404 — no WP menu plugin"
+  - "Navigation extracted from HTML: Roundtables, Participants, About (dropdown), Contact, Donate"
+  - "Footer social links: Facebook, Twitter/X, YouTube, Instagram, Apple Podcasts, RSS"

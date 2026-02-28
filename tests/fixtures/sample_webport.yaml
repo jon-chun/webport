@@ -1,0 +1,36 @@
+# Sample WebPort configuration for testing
+domain: test-site.com
+base_url: https://test-site.com
+name: Test Site
+site_type: wordpress
+
+rate_limit_delay: 1.0
+max_concurrent: 2
+
+wordpress:
+  custom_post_types:
+    - product
+  taxonomies: []
+  include_standard:
+    - posts
+    - pages
+  save_raw_json: true
+
+scrape:
+  rate_limit_delay: 0.5
+  max_concurrent: 2
+  timeout: 15.0
+  relationships: []
+  details: []
+
+analyze:
+  docs:
+    - PRD
+    - data-dictionary
+  use_ai: false
+
+generate:
+  target: nextjs
+  typescript: true
+  styling: tailwind
+  prisma: true

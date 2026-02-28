@@ -1,0 +1,128 @@
+# WebPort site configuration for helixcenter.org
+# This drives the entire pipeline: crawl -> scrape -> analyze -> generate -> archive
+
+domain: helixcenter.org
+base_url: https://www.helixcenter.org
+name: The Helix Center
+site_type: wordpress
+
+# Rate limiting
+rate_limit_delay: 0.5
+max_concurrent: 4
+
+# WordPress crawl configuration
+wordpress:
+  custom_post_types:
+    - roundtable
+    - participant
+    - podcast
+  taxonomies:
+    - series
+  include_standard:
+    - posts
+    - pages
+    - categories
+    - tags
+    - media
+  save_raw_json: true
+
+# HTML scraping configuration
+scrape:
+  rate_limit_delay: 0.5
+  max_concurrent: 4
+  timeout: 30.0
+
+  relationships:
+    # Roundtable -> Participants (which participants appear in each roundtable)
+    - source_json: wp_posts.json
+      url_field: link
+      target_container:
+        selectors:
+          - ".participants-list"
+          - ".entry-content ul"
+        multiple: false
+      target_link:
+        selectors:
+          - ".participants-list a[href*='/participants/']"
+          - ".entry-content a[href*='/participants/']"
+        attribute: href
+        multiple: true
+      target_name:
+        selectors:
+          - ".participants-list a[href*='/participants/']"
+        multiple: true
+      output_file: roundtable_participants.json
+
+    # Participant -> Roundtables (which roundtables each participant appears in)
+    - source_json: wp_participants.json
+      url_field: link
+      target_container:
+        selectors:
+          - ".roundtables-list"
+          - ".entry-content ul"
+        multiple: false
+      target_link:
+        selectors:
+          - ".roundtables-list a[href*='/roundtable/']"
+          - ".entry-content a[href*='/roundtable/']"
+        attribute: href
+        multiple: true
+      target_name:
+        selectors:
+          - ".roundtables-list a[href*='/roundtable/']"
+        multiple: true
+      output_file: participant_roundtables.json
+
+  details:
+    # Participant professional titles from individual pages
+    - source_json: wp_participants.json
+      url_field: link
+      fields:
+        professional_title:
+          selectors:
+            - "h1 + p"
+            - ".participant-title"
+            - ".entry-content p:first-of-type"
+          transform: strip
+        papers_section:
+          selectors:
+            - "h2:contains('Paper') ~ *"
+            - "h3:contains('Paper') ~ *"
+          multiple: true
+      output_file: participant_titles.json
+
+    # Roundtable event details (date, time, video URLs)
+    - source_json: wp_posts.json
+      url_field: link
+      fields:
+        event_date:
+          selectors:
+            - ".event-date"
+            - ".entry-meta time"
+            - "time[datetime]"
+          attribute: datetime
+          transform: date
+        video_url:
+          selectors:
+            - "iframe[src*='youtube']"
+            - "iframe[src*='vimeo']"
+          attribute: src
+      output_file: roundtable_details.json
+
+# Analysis configuration
+analyze:
+  docs:
+    - PRD
+    - data-dictionary
+    - database-schema
+    - tech-spec
+    - component-inventory
+    - deployment
+  use_ai: false
+
+# Code generation configuration
+generate:
+  target: nextjs
+  typescript: true
+  styling: tailwind
+  prisma: true
