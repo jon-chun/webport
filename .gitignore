@@ -217,3 +217,8 @@ dev.db
 *.db
 output/
 __pycache__/
+
+# >>> env files (ai-swe-setup env-ignore): never commit .env*, except .env.example
+.env*
+!.env.example
+# <<< env files
